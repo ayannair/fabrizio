@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# VSCode project settings
+.vscode/
+
+# Environment variables or API keys
+.env
+
+# Logs
+*.log
+
+# FAISS/Vector DB index (optional)
+*.index
