@@ -1,0 +1,1927 @@
+Please log in manually. Once you see your Twitter home page or navigate to a profile, press Enter in the terminal to continue.
+Waiting for manual login...Initially found 3 unique tweets.
+After scroll 1, found 1 new unique tweets.
+After scroll 2, found 1 new unique tweets.
+After scroll 3, found 0 new unique tweets.
+After scroll 4, found 1 new unique tweets.
+After scroll 5, found 0 new unique tweets.
+After scroll 6, found 0 new unique tweets.
+After scroll 7, found 1 new unique tweets.
+After scroll 8, found 1 new unique tweets.
+After scroll 9, found 1 new unique tweets.
+After scroll 10, found 0 new unique tweets.
+After scroll 11, found 0 new unique tweets.
+After scroll 12, found 1 new unique tweets.
+After scroll 13, found 1 new unique tweets.
+After scroll 14, found 0 new unique tweets.
+After scroll 15, found 1 new unique tweets.
+After scroll 16, found 1 new unique tweets.
+After scroll 17, found 0 new unique tweets.
+After scroll 18, found 0 new unique tweets.
+After scroll 19, found 1 new unique tweets.
+After scroll 20, found 1 new unique tweets.
+After scroll 21, found 1 new unique tweets.
+After scroll 22, found 1 new unique tweets.
+After scroll 23, found 0 new unique tweets.
+After scroll 24, found 0 new unique tweets.
+After scroll 25, found 2 new unique tweets.
+After scroll 26, found 1 new unique tweets.
+After scroll 27, found 1 new unique tweets.
+After scroll 28, found 1 new unique tweets.
+After scroll 29, found 1 new unique tweets.
+After scroll 30, found 1 new unique tweets.
+After scroll 31, found 0 new unique tweets.
+After scroll 32, found 1 new unique tweets.
+After scroll 33, found 1 new unique tweets.
+After scroll 34, found 1 new unique tweets.
+After scroll 35, found 1 new unique tweets.
+After scroll 36, found 1 new unique tweets.
+After scroll 37, found 1 new unique tweets.
+After scroll 38, found 0 new unique tweets.
+After scroll 39, found 1 new unique tweets.
+After scroll 40, found 1 new unique tweets.
+After scroll 41, found 1 new unique tweets.
+After scroll 42, found 0 new unique tweets.
+After scroll 43, found 1 new unique tweets.
+After scroll 44, found 1 new unique tweets.
+After scroll 45, found 1 new unique tweets.
+After scroll 46, found 1 new unique tweets.
+After scroll 47, found 0 new unique tweets.
+After scroll 48, found 0 new unique tweets.
+After scroll 49, found 2 new unique tweets.
+After scroll 50, found 1 new unique tweets.
+After scroll 51, found 1 new unique tweets.
+After scroll 52, found 1 new unique tweets.
+After scroll 53, found 0 new unique tweets.
+After scroll 54, found 1 new unique tweets.
+After scroll 55, found 1 new unique tweets.
+After scroll 56, found 1 new unique tweets.
+After scroll 57, found 1 new unique tweets.
+After scroll 58, found 1 new unique tweets.
+After scroll 59, found 1 new unique tweets.
+After scroll 60, found 1 new unique tweets.
+After scroll 61, found 0 new unique tweets.
+After scroll 62, found 1 new unique tweets.
+After scroll 63, found 1 new unique tweets.
+After scroll 64, found 0 new unique tweets.
+After scroll 65, found 1 new unique tweets.
+After scroll 66, found 1 new unique tweets.
+After scroll 67, found 1 new unique tweets.
+After scroll 68, found 0 new unique tweets.
+After scroll 69, found 1 new unique tweets.
+After scroll 70, found 1 new unique tweets.
+After scroll 71, found 0 new unique tweets.
+After scroll 72, found 1 new unique tweets.
+After scroll 73, found 1 new unique tweets.
+After scroll 74, found 1 new unique tweets.
+After scroll 75, found 1 new unique tweets.
+After scroll 76, found 0 new unique tweets.
+After scroll 77, found 1 new unique tweets.
+After scroll 78, found 1 new unique tweets.
+After scroll 79, found 1 new unique tweets.
+After scroll 80, found 1 new unique tweets.
+After scroll 81, found 1 new unique tweets.
+After scroll 82, found 1 new unique tweets.
+After scroll 83, found 1 new unique tweets.
+After scroll 84, found 1 new unique tweets.
+After scroll 85, found 1 new unique tweets.
+After scroll 86, found 1 new unique tweets.
+After scroll 87, found 0 new unique tweets.
+After scroll 88, found 1 new unique tweets.
+After scroll 89, found 1 new unique tweets.
+After scroll 90, found 1 new unique tweets.
+After scroll 91, found 1 new unique tweets.
+After scroll 92, found 0 new unique tweets.
+After scroll 93, found 0 new unique tweets.
+After scroll 94, found 0 new unique tweets.
+After scroll 95, found 0 new unique tweets.
+After scroll 96, found 0 new unique tweets.
+After scroll 97, found 0 new unique tweets.
+After scroll 98, found 0 new unique tweets.
+After scroll 99, found 0 new unique tweets.
+After scroll 100, found 0 new unique tweets.
+After scroll 101, found 0 new unique tweets.
+After scroll 102, found 0 new unique tweets.
+After scroll 103, found 0 new unique tweets.
+After scroll 104, found 0 new unique tweets.
+After scroll 105, found 0 new unique tweets.
+After scroll 106, found 0 new unique tweets.
+After scroll 107, found 0 new unique tweets.
+After scroll 108, found 0 new unique tweets.
+After scroll 109, found 0 new unique tweets.
+After scroll 110, found 0 new unique tweets.
+After scroll 111, found 0 new unique tweets.
+After scroll 112, found 0 new unique tweets.
+After scroll 113, found 0 new unique tweets.
+After scroll 114, found 0 new unique tweets.
+After scroll 115, found 0 new unique tweets.
+After scroll 116, found 4 new unique tweets.
+After scroll 117, found 1 new unique tweets.
+After scroll 118, found 1 new unique tweets.
+After scroll 119, found 1 new unique tweets.
+After scroll 120, found 0 new unique tweets.
+After scroll 121, found 1 new unique tweets.
+After scroll 122, found 1 new unique tweets.
+After scroll 123, found 1 new unique tweets.
+After scroll 124, found 1 new unique tweets.
+After scroll 125, found 0 new unique tweets.
+After scroll 126, found 1 new unique tweets.
+After scroll 127, found 1 new unique tweets.
+After scroll 128, found 1 new unique tweets.
+After scroll 129, found 1 new unique tweets.
+After scroll 130, found 1 new unique tweets.
+After scroll 131, found 1 new unique tweets.
+After scroll 132, found 1 new unique tweets.
+After scroll 133, found 1 new unique tweets.
+After scroll 134, found 0 new unique tweets.
+After scroll 135, found 2 new unique tweets.
+After scroll 136, found 0 new unique tweets.
+After scroll 137, found 0 new unique tweets.
+After scroll 138, found 1 new unique tweets.
+After scroll 139, found 1 new unique tweets.
+After scroll 140, found 1 new unique tweets.
+After scroll 141, found 1 new unique tweets.
+After scroll 142, found 0 new unique tweets.
+After scroll 143, found 1 new unique tweets.
+After scroll 144, found 1 new unique tweets.
+After scroll 145, found 1 new unique tweets.
+After scroll 146, found 1 new unique tweets.
+After scroll 147, found 1 new unique tweets.
+After scroll 148, found 0 new unique tweets.
+After scroll 149, found 1 new unique tweets.
+After scroll 150, found 1 new unique tweets.
+After scroll 151, found 1 new unique tweets.
+After scroll 152, found 1 new unique tweets.
+After scroll 153, found 0 new unique tweets.
+After scroll 154, found 1 new unique tweets.
+After scroll 155, found 1 new unique tweets.
+After scroll 156, found 1 new unique tweets.
+After scroll 157, found 1 new unique tweets.
+After scroll 158, found 1 new unique tweets.
+After scroll 159, found 1 new unique tweets.
+After scroll 160, found 0 new unique tweets.
+After scroll 161, found 0 new unique tweets.
+After scroll 162, found 2 new unique tweets.
+After scroll 163, found 1 new unique tweets.
+After scroll 164, found 0 new unique tweets.
+After scroll 165, found 1 new unique tweets.
+After scroll 166, found 1 new unique tweets.
+After scroll 167, found 0 new unique tweets.
+After scroll 168, found 1 new unique tweets.
+After scroll 169, found 1 new unique tweets.
+After scroll 170, found 1 new unique tweets.
+After scroll 171, found 0 new unique tweets.
+After scroll 172, found 2 new unique tweets.
+After scroll 173, found 1 new unique tweets.
+After scroll 174, found 1 new unique tweets.
+After scroll 175, found 0 new unique tweets.
+After scroll 176, found 0 new unique tweets.
+After scroll 177, found 1 new unique tweets.
+After scroll 178, found 1 new unique tweets.
+After scroll 179, found 0 new unique tweets.
+After scroll 180, found 1 new unique tweets.
+After scroll 181, found 1 new unique tweets.
+After scroll 182, found 1 new unique tweets.
+After scroll 183, found 1 new unique tweets.
+After scroll 184, found 0 new unique tweets.
+After scroll 185, found 0 new unique tweets.
+After scroll 186, found 2 new unique tweets.
+After scroll 187, found 1 new unique tweets.
+After scroll 188, found 1 new unique tweets.
+After scroll 189, found 1 new unique tweets.
+After scroll 190, found 0 new unique tweets.
+After scroll 191, found 1 new unique tweets.
+After scroll 192, found 1 new unique tweets.
+After scroll 193, found 1 new unique tweets.
+After scroll 194, found 1 new unique tweets.
+After scroll 195, found 0 new unique tweets.
+After scroll 196, found 1 new unique tweets.
+After scroll 197, found 1 new unique tweets.
+After scroll 198, found 0 new unique tweets.
+After scroll 199, found 1 new unique tweets.
+After scroll 200, found 1 new unique tweets.
+After scroll 201, found 1 new unique tweets.
+After scroll 202, found 0 new unique tweets.
+After scroll 203, found 1 new unique tweets.
+After scroll 204, found 1 new unique tweets.
+After scroll 205, found 0 new unique tweets.
+After scroll 206, found 1 new unique tweets.
+After scroll 207, found 2 new unique tweets.
+After scroll 208, found 0 new unique tweets.
+After scroll 209, found 0 new unique tweets.
+After scroll 210, found 2 new unique tweets.
+After scroll 211, found 2 new unique tweets.
+After scroll 212, found 0 new unique tweets.
+After scroll 213, found 1 new unique tweets.
+After scroll 214, found 1 new unique tweets.
+After scroll 215, found 1 new unique tweets.
+After scroll 216, found 1 new unique tweets.
+After scroll 217, found 1 new unique tweets.
+After scroll 218, found 1 new unique tweets.
+After scroll 219, found 1 new unique tweets.
+After scroll 220, found 1 new unique tweets.
+After scroll 221, found 0 new unique tweets.
+After scroll 222, found 1 new unique tweets.
+After scroll 223, found 0 new unique tweets.
+After scroll 224, found 1 new unique tweets.
+After scroll 225, found 1 new unique tweets.
+After scroll 226, found 0 new unique tweets.
+After scroll 227, found 0 new unique tweets.
+After scroll 228, found 0 new unique tweets.
+After scroll 229, found 0 new unique tweets.
+After scroll 230, found 0 new unique tweets.
+After scroll 231, found 0 new unique tweets.
+After scroll 232, found 0 new unique tweets.
+After scroll 233, found 0 new unique tweets.
+After scroll 234, found 0 new unique tweets.
+After scroll 235, found 0 new unique tweets.
+After scroll 236, found 0 new unique tweets.
+After scroll 237, found 0 new unique tweets.
+After scroll 238, found 0 new unique tweets.
+After scroll 239, found 0 new unique tweets.
+After scroll 240, found 0 new unique tweets.
+After scroll 241, found 0 new unique tweets.
+After scroll 242, found 3 new unique tweets.
+After scroll 243, found 2 new unique tweets.
+After scroll 244, found 1 new unique tweets.
+After scroll 245, found 1 new unique tweets.
+After scroll 246, found 0 new unique tweets.
+After scroll 247, found 1 new unique tweets.
+After scroll 248, found 1 new unique tweets.
+After scroll 249, found 0 new unique tweets.
+After scroll 250, found 0 new unique tweets.
+After scroll 251, found 0 new unique tweets.
+After scroll 252, found 0 new unique tweets.
+After scroll 253, found 0 new unique tweets.
+After scroll 254, found 0 new unique tweets.
+After scroll 255, found 0 new unique tweets.
+After scroll 256, found 0 new unique tweets.
+After scroll 257, found 0 new unique tweets.
+After scroll 258, found 0 new unique tweets.
+After scroll 259, found 0 new unique tweets.
+After scroll 260, found 0 new unique tweets.
+After scroll 261, found 0 new unique tweets.
+After scroll 262, found 0 new unique tweets.
+After scroll 263, found 0 new unique tweets.
+After scroll 264, found 0 new unique tweets.
+After scroll 265, found 0 new unique tweets.
+After scroll 266, found 0 new unique tweets.
+After scroll 267, found 0 new unique tweets.
+After scroll 268, found 0 new unique tweets.
+After scroll 269, found 0 new unique tweets.
+After scroll 270, found 0 new unique tweets.
+After scroll 271, found 0 new unique tweets.
+After scroll 272, found 0 new unique tweets.
+After scroll 273, found 0 new unique tweets.
+After scroll 274, found 0 new unique tweets.
+After scroll 275, found 0 new unique tweets.
+After scroll 276, found 0 new unique tweets.
+After scroll 277, found 0 new unique tweets.
+After scroll 278, found 0 new unique tweets.
+After scroll 279, found 0 new unique tweets.
+After scroll 280, found 0 new unique tweets.
+After scroll 281, found 6 new unique tweets.
+After scroll 282, found 0 new unique tweets.
+After scroll 283, found 1 new unique tweets.
+After scroll 284, found 0 new unique tweets.
+After scroll 285, found 0 new unique tweets.
+After scroll 286, found 0 new unique tweets.
+After scroll 287, found 0 new unique tweets.
+After scroll 288, found 0 new unique tweets.
+After scroll 289, found 0 new unique tweets.
+After scroll 290, found 0 new unique tweets.
+After scroll 291, found 0 new unique tweets.
+After scroll 292, found 0 new unique tweets.
+After scroll 293, found 0 new unique tweets.
+After scroll 294, found 0 new unique tweets.
+After scroll 295, found 0 new unique tweets.
+After scroll 296, found 0 new unique tweets.
+After scroll 297, found 0 new unique tweets.
+After scroll 298, found 7 new unique tweets.
+After scroll 299, found 0 new unique tweets.
+After scroll 300, found 0 new unique tweets.
+After scroll 301, found 2 new unique tweets.
+After scroll 302, found 1 new unique tweets.
+After scroll 303, found 0 new unique tweets.
+After scroll 304, found 0 new unique tweets.
+After scroll 305, found 0 new unique tweets.
+After scroll 306, found 0 new unique tweets.
+After scroll 307, found 0 new unique tweets.
+After scroll 308, found 0 new unique tweets.
+After scroll 309, found 0 new unique tweets.
+After scroll 310, found 0 new unique tweets.
+After scroll 311, found 0 new unique tweets.
+After scroll 312, found 0 new unique tweets.
+After scroll 313, found 0 new unique tweets.
+After scroll 314, found 0 new unique tweets.
+After scroll 315, found 0 new unique tweets.
+After scroll 316, found 0 new unique tweets.
+After scroll 317, found 0 new unique tweets.
+After scroll 318, found 0 new unique tweets.
+After scroll 319, found 0 new unique tweets.
+After scroll 320, found 0 new unique tweets.
+After scroll 321, found 3 new unique tweets.
+After scroll 322, found 5 new unique tweets.
+After scroll 323, found 0 new unique tweets.
+After scroll 324, found 0 new unique tweets.
+After scroll 325, found 0 new unique tweets.
+After scroll 326, found 0 new unique tweets.
+After scroll 327, found 0 new unique tweets.
+After scroll 328, found 0 new unique tweets.
+After scroll 329, found 0 new unique tweets.
+After scroll 330, found 0 new unique tweets.
+After scroll 331, found 0 new unique tweets.
+After scroll 332, found 0 new unique tweets.
+After scroll 333, found 0 new unique tweets.
+After scroll 334, found 0 new unique tweets.
+After scroll 335, found 0 new unique tweets.
+After scroll 336, found 0 new unique tweets.
+After scroll 337, found 0 new unique tweets.
+After scroll 338, found 0 new unique tweets.
+After scroll 339, found 0 new unique tweets.
+After scroll 340, found 7 new unique tweets.
+After scroll 341, found 0 new unique tweets.
+After scroll 342, found 0 new unique tweets.
+After scroll 343, found 0 new unique tweets.
+After scroll 344, found 0 new unique tweets.
+After scroll 345, found 0 new unique tweets.
+After scroll 346, found 0 new unique tweets.
+After scroll 347, found 0 new unique tweets.
+After scroll 348, found 0 new unique tweets.
+After scroll 349, found 0 new unique tweets.
+After scroll 350, found 0 new unique tweets.
+After scroll 351, found 0 new unique tweets.
+After scroll 352, found 0 new unique tweets.
+After scroll 353, found 0 new unique tweets.
+After scroll 354, found 0 new unique tweets.
+After scroll 355, found 0 new unique tweets.
+After scroll 356, found 0 new unique tweets.
+After scroll 357, found 0 new unique tweets.
+After scroll 358, found 0 new unique tweets.
+After scroll 359, found 0 new unique tweets.
+After scroll 360, found 0 new unique tweets.
+After scroll 361, found 0 new unique tweets.
+After scroll 362, found 0 new unique tweets.
+After scroll 363, found 0 new unique tweets.
+After scroll 364, found 0 new unique tweets.
+After scroll 365, found 0 new unique tweets.
+After scroll 366, found 0 new unique tweets.
+After scroll 367, found 0 new unique tweets.
+After scroll 368, found 0 new unique tweets.
+After scroll 369, found 6 new unique tweets.
+After scroll 370, found 1 new unique tweets.
+After scroll 371, found 0 new unique tweets.
+After scroll 372, found 0 new unique tweets.
+After scroll 373, found 0 new unique tweets.
+After scroll 374, found 0 new unique tweets.
+After scroll 375, found 0 new unique tweets.
+After scroll 376, found 0 new unique tweets.
+After scroll 377, found 0 new unique tweets.
+After scroll 378, found 0 new unique tweets.
+After scroll 379, found 0 new unique tweets.
+After scroll 380, found 0 new unique tweets.
+After scroll 381, found 0 new unique tweets.
+After scroll 382, found 0 new unique tweets.
+After scroll 383, found 0 new unique tweets.
+After scroll 384, found 0 new unique tweets.
+After scroll 385, found 0 new unique tweets.
+After scroll 386, found 0 new unique tweets.
+After scroll 387, found 0 new unique tweets.
+After scroll 388, found 0 new unique tweets.
+After scroll 389, found 0 new unique tweets.
+After scroll 390, found 0 new unique tweets.
+After scroll 391, found 0 new unique tweets.
+After scroll 392, found 0 new unique tweets.
+After scroll 393, found 0 new unique tweets.
+After scroll 394, found 0 new unique tweets.
+After scroll 395, found 0 new unique tweets.
+After scroll 396, found 0 new unique tweets.
+After scroll 397, found 0 new unique tweets.
+After scroll 398, found 0 new unique tweets.
+After scroll 399, found 0 new unique tweets.
+After scroll 400, found 0 new unique tweets.
+After scroll 401, found 0 new unique tweets.
+After scroll 402, found 0 new unique tweets.
+After scroll 403, found 0 new unique tweets.
+After scroll 404, found 0 new unique tweets.
+After scroll 405, found 0 new unique tweets.
+After scroll 406, found 0 new unique tweets.
+After scroll 407, found 0 new unique tweets.
+After scroll 408, found 0 new unique tweets.
+After scroll 409, found 0 new unique tweets.
+After scroll 410, found 0 new unique tweets.
+After scroll 411, found 0 new unique tweets.
+After scroll 412, found 0 new unique tweets.
+After scroll 413, found 0 new unique tweets.
+After scroll 414, found 0 new unique tweets.
+After scroll 415, found 8 new unique tweets.
+After scroll 416, found 0 new unique tweets.
+After scroll 417, found 1 new unique tweets.
+After scroll 418, found 1 new unique tweets.
+After scroll 419, found 1 new unique tweets.
+After scroll 420, found 1 new unique tweets.
+After scroll 421, found 1 new unique tweets.
+After scroll 422, found 0 new unique tweets.
+After scroll 423, found 1 new unique tweets.
+After scroll 424, found 1 new unique tweets.
+After scroll 425, found 1 new unique tweets.
+After scroll 426, found 0 new unique tweets.
+After scroll 427, found 1 new unique tweets.
+After scroll 428, found 1 new unique tweets.
+After scroll 429, found 1 new unique tweets.
+After scroll 430, found 0 new unique tweets.
+After scroll 431, found 0 new unique tweets.
+After scroll 432, found 0 new unique tweets.
+After scroll 433, found 1 new unique tweets.
+After scroll 434, found 1 new unique tweets.
+After scroll 435, found 1 new unique tweets.
+After scroll 436, found 0 new unique tweets.
+After scroll 437, found 1 new unique tweets.
+After scroll 438, found 0 new unique tweets.
+After scroll 439, found 1 new unique tweets.
+After scroll 440, found 0 new unique tweets.
+After scroll 441, found 1 new unique tweets.
+After scroll 442, found 1 new unique tweets.
+After scroll 443, found 1 new unique tweets.
+After scroll 444, found 1 new unique tweets.
+After scroll 445, found 0 new unique tweets.
+After scroll 446, found 1 new unique tweets.
+After scroll 447, found 1 new unique tweets.
+After scroll 448, found 1 new unique tweets.
+After scroll 449, found 1 new unique tweets.
+After scroll 450, found 1 new unique tweets.
+After scroll 451, found 1 new unique tweets.
+After scroll 452, found 1 new unique tweets.
+After scroll 453, found 0 new unique tweets.
+After scroll 454, found 2 new unique tweets.
+After scroll 455, found 0 new unique tweets.
+After scroll 456, found 1 new unique tweets.
+After scroll 457, found 1 new unique tweets.
+After scroll 458, found 1 new unique tweets.
+After scroll 459, found 0 new unique tweets.
+After scroll 460, found 1 new unique tweets.
+After scroll 461, found 0 new unique tweets.
+After scroll 462, found 2 new unique tweets.
+After scroll 463, found 1 new unique tweets.
+After scroll 464, found 1 new unique tweets.
+After scroll 465, found 1 new unique tweets.
+After scroll 466, found 0 new unique tweets.
+After scroll 467, found 1 new unique tweets.
+After scroll 468, found 1 new unique tweets.
+After scroll 469, found 1 new unique tweets.
+After scroll 470, found 1 new unique tweets.
+After scroll 471, found 0 new unique tweets.
+After scroll 472, found 0 new unique tweets.
+After scroll 473, found 0 new unique tweets.
+After scroll 474, found 0 new unique tweets.
+After scroll 475, found 0 new unique tweets.
+After scroll 476, found 0 new unique tweets.
+After scroll 477, found 0 new unique tweets.
+After scroll 478, found 0 new unique tweets.
+After scroll 479, found 0 new unique tweets.
+After scroll 480, found 0 new unique tweets.
+After scroll 481, found 0 new unique tweets.
+After scroll 482, found 0 new unique tweets.
+After scroll 483, found 0 new unique tweets.
+After scroll 484, found 0 new unique tweets.
+After scroll 485, found 0 new unique tweets.
+After scroll 486, found 0 new unique tweets.
+After scroll 487, found 0 new unique tweets.
+After scroll 488, found 0 new unique tweets.
+After scroll 489, found 0 new unique tweets.
+After scroll 490, found 0 new unique tweets.
+After scroll 491, found 0 new unique tweets.
+After scroll 492, found 0 new unique tweets.
+After scroll 493, found 0 new unique tweets.
+After scroll 494, found 0 new unique tweets.
+After scroll 495, found 0 new unique tweets.
+After scroll 496, found 0 new unique tweets.
+After scroll 497, found 0 new unique tweets.
+After scroll 498, found 0 new unique tweets.
+After scroll 499, found 0 new unique tweets.
+After scroll 500, found 0 new unique tweets.
+Total unique tweets collected: 264
+
+All unique tweets collected:
+----------------------------------------
+Tweet 1:
+Liverpool have made formal approach to Bayer Leverkusen for Florian Wirtz!
+
+After initial green light from the player, Liverpool and Bayer Leverkusen are in talks over transfer fee/package.
+
+Liverpool want the deal to be done very soon, not a long saga — to avoid surprises.
+----------------------------------------
+Tweet 2:
+Jurgen Klopp: “I’m NOT going to become AS Roma new head coach. That story is a bullshit”.
+
+“If you read any rumours about me taking a coaching job in the next few years it’s bullshit. You can be the first to say it”.
+----------------------------------------
+Tweet 3:
+Everton have presented their project to Liam Delap in direct meeting with David Moyes involved.
+
+Face to face talks took place this week, as Chelsea and Man United remain keen on Ipswich striker.
+
+£30m clause available, Everton would be ready to offer an important salary.
+----------------------------------------
+Tweet 4:
+Decision made: Kyle Walker Peters will leave Southampton as free agent, playing his final game at the club this weekend.
+
+No decision yet on new club, exploring all options available.
+----------------------------------------
+Tweet 5:
+Florian Wirtz has informed Bayer Leverkusen of his desire to join Liverpool.
+
+The contract agreement is done, sealed as Wirtz only wants Liverpool move.
+
+Club to club talks already underway as revealed earlier, #LFC are confident to get the deal DONE SOON. Not a long saga.
+----------------------------------------
+Tweet 6:
+Jurgen Klopp on Trent Alexander-Arnold: “I’m not saying don’t be disappointed he’s leaving… but don’t forget what he’s done for the club”.
+
+“I heard the booing and switched off my TV. I couldn’t have been more disappointed. This isn’t us”.
+----------------------------------------
+Tweet 7:
+Antony: “Here at Betis I’m happy when I go to sleep and when I wake up… all day happy”.
+
+“I don’t know what’s gonna happen with my future but I’m so happy here. These fans are incredible”.
+----------------------------------------
+Tweet 8:
+Antonio Conte wins his 5th Serie A title with 3 at Juventus, 1 at Napoli, 1 at Inter…
+
+…and 6th league title with Premier League at Chelsea.
+----------------------------------------
+Tweet 9:
+Napoli are Serie A champions as they win 4th Italian title in their history! 
+
+Insane job once again by Antonio Conte, world class coach who wins one more league.
+----------------------------------------
+Tweet 10:
+Antony scores again and makes it 9 goals, 5 assists in four months at Real Betis since joining the club from United!
+----------------------------------------
+Tweet 11:
+EXCLUSIVE: Jonathan Tah to Bayern, here we go!
+
+The German defender has agreed deal, Bayer Leverkusen confirm they have been informed.
+
+Bayer Leverkusen now wait for Bayern to make contact to discuss fee for Tah to be at the FIFA Club World Cup.
+
+New defender for Bayern
+----------------------------------------
+Tweet 12:
+12 goals, 6 assists for Scott McTominay this season in Serie A.
+
+Signing of the year by far in Italy.
+----------------------------------------
+Tweet 13:
+Liverpool are extremely confident on Florian Wirtz deal to be sealed very soon on both club/player sides. 
+
+ More: https://youtu.be/BQWf4OzCFzM
+----------------------------------------
+Tweet 14:
+Even after update on Kai Havertz’s injury requiring surgery, Arsenal plan remain the same: find internal solutions and focus on big signing in the summer.
+
+Important investment planned on striker for the summer window (Šeško and Isak the fav names)… and winger too.
+----------------------------------------
+Tweet 15:
+Manchester City have started club to club talks with AC Milan for Tijjani Reijnders as top target.
+
+Negotiations to continue next week as opening bid expected to arrive soon.
+
+City want to be fast for Club World Cup + anticipate other European top clubs keen on Reijnders.
+----------------------------------------
+Tweet 16:
+Liverpool are confident to get Florian Wirtz deal done after fresh contacts in last 24/48 hours.
+
+Talks ongoing to get final green light but #LFC are now favorites ahead of Bayern in the race for German gem.
+
+Liverpool want to be fast — as per 
+@David_Ornstein
+ @sachatavolieri
+.
+----------------------------------------
+Tweet 17:
+Kvaratskhelia: “The toughest defender I’ve faced is Trent Alexander-Arnold, he's a very good player”.
+
+“I can’t name a lot but I'd choose from my time with Paris the hardest one was Trent”, told 
+@rioferdy5
+.
+----------------------------------------
+Tweet 18:
+Deal done for Como to sign Alex Valle from Barça on permanent move, as revealed in April.
+
+Details of the deal: €6m total fee with €4m to be paid this year and €2m in 2026 — contract until June 2029.
+
+Paperwork set to be signed shortly.
+----------------------------------------
+Tweet 19:
+Understand Como are set to trigger €6m release clause for Alex Valle to sign him on permanent deal from Barcelona.
+
+Intention and plans clear on club side as they’re set to offer Valle a long term deal.
+
+He’s key part of Cesc Fabregas plans at the club.
+----------------------------------------
+Tweet 20:
+Barcelona are planning to get new deal done for Eric García after Raphinha.
+
+Negotiations underway with Deco on it after Barça rejected €8m bid from Como in January.
+
+ Marc Casadó and Marc Bernal will also sign new contracts in the upcoming weeks as part of the plan.
+----------------------------------------
+Tweet 21:
+Chelsea plan to open talks with Moises Caicedo’s camp over new deal as they’re very happy with his impact again this season.
+
+Negotiations have not started yet and it will take some time as not urgent topic, but club plans to give Moises a new contract.
+----------------------------------------
+Tweet 22:
+Ipswich manager McKenna confirms Liam Delap is expected to leave: “Yes, he’s looking at his options for next year. We support him with that”.
+
+Delap has already met with Chelsea and Man United as he’s in the list of several clubs this summer.
+----------------------------------------
+Tweet 23:
+More on Manchester City plans. 
+
+Pep confirms today that Kyle Walker won’t be part of the future plans, he will leave this summer. 
+
+…and Tino Livramento remains the #1 target at right back, won’t be easy deal with Newcastle. 
+ Tino Livramento, among options under consideration at Manchester City for right back position.
+
+There’s a four-men shortlist for that position with City set to decide ahead of Club World Cup.
+
+Kyle Walker will 100% leave the club, even if AC Milan won’t buy him.
+----------------------------------------
+Tweet 24:
+Éder Militão, back in group training as recovery process’ almost completed before Club World Cup.
+
+Positive feeling after months of full dedication; Éder even brought family from Brazil at Christmas to keep up his sessions in Madrid.
+
+…like a new ‘signing’ for Xabi Alonso.
+----------------------------------------
+Tweet 25:
+João Pedro, one to watch in the upcoming weeks as revealed this week.
+ Understand João Pedro can leave Brighton in the summer as he’s open to new chapter of his career.
+
+Premier League top clubs aware of the opportunity for potential transfer fee around €70m, but final decision up to Brighton.
+
+One to watch this summer.
+----------------------------------------
+Tweet 26:
+Swedish midfielder Otto Rosengren can leave Malmö this summer, concrete possibility as 
+@sportbladet
+ reports.
+
+Clubs around Europe are keen on signing him after excellent season and the player can be open to new chapter.
+----------------------------------------
+Tweet 27:
+Understand João Pedro can leave Brighton in the summer as he’s open to new chapter of his career.
+
+Premier League top clubs aware of the opportunity for potential transfer fee around €70m, but final decision up to Brighton.
+
+One to watch this summer.
+----------------------------------------
+Tweet 28:
+Pep Guardiola when asked if Kyle Walker will be part of Man City squad for FIFA Club World Cup: “No”.
+----------------------------------------
+Tweet 29:
+Ancelotti: “This was the only way to leave for me, not joining another club… and with the love of Real Madrid fans”.
+
+“I didn't and don't want to coach another club after Real Madrid. Now it will be Brazil, the World Cup… I’m excited”.
+----------------------------------------
+Tweet 30:
+Christopher Nkunku’s exit from Chelsea remains guaranteed ahead of the summer transfer window.
+
+Contacts are due to start soon with Nkunku attracting interest already since January.
+----------------------------------------
+Tweet 31:
+Neymar Jr when asked if he’s gonna sign new deal at Santos: “I don’t know. In this moment, I don’t know”.
+----------------------------------------
+Tweet 32:
+Carlo Ancelotti’s 𝒍𝒆𝒕𝒕𝒆𝒓 to all Real Madrid fans ahead of farewell to Bernabéu this week…
+
+“Today we go separate ways again. Today again I take in my heart every moment I’ve lived in this wonderful second stage as Real Madrid coach”.
+
+“It’s been unforgettable years,
+----------------------------------------
+Tweet 33:
+Real Madrid official statement confirms Carlo Ancelotti’s exit as he’s already new Brazil head coach.
+
+Farewell planned for Ancelotti after the game vs Real Sociedad.
+----------------------------------------
+Tweet 34:
+England release squad for upcoming games in June.
+
+First call for Trevoh Chalobah.
+----------------------------------------
+Tweet 35:
+Here we go! 
+
+#DAZNTransfer by 
+@fabriziorom
+ 
+
+New market show from June 3rd to June 10th
+----------------------------------------
+Tweet 36:
+Arne Slot: “Trent Alexander-Arnold is going to leave anyway… so why not leave him out, it might be the first gift I can give Xabi Alonso!”.
+----------------------------------------
+Tweet 37:
+Enzo Maresca when asked if Enzo Fernández is staying: “Yes! Enzo is a main player for us”.
+
+“He is one of the leaders. He's been very, very good. He can be even better next season. Nothing to say about speculation. He is focused on us”.
+----------------------------------------
+Tweet 38:
+Understand Erik ten Hag said yes to Bayer Leverkusen project on a two year contract.
+
+He’s now waiting for club decision as they spoke to several candidates…
+
+…but ETH gives priority to Bayer 04, with Ajax waiting in the background.
+----------------------------------------
+Tweet 39:
+Negotiations for Gabri Veiga to join FC Porto continue with all parties involved.
+
+Sell-on clause can be part of the package being discussed with Al Ahli as Spanish midfielder is a priority target for Porto.
+----------------------------------------
+Tweet 40:
+Mikel Arteta confirms: “Yes, I’d like Thomas Partey to stay and sign new deal”.
+
+“Consistency-wise, it’s been his best season. I think the way he’s played, performed, his availability has been exceptional & he’s a really important player for us”.
+----------------------------------------
+Tweet 41:
+Manchester United plan to continue building with Rúben Amorim, supporting the coach.
+
+Cunha planned as first signing… while Ale Garnacho can leave this summer in case of good proposal for all parties. 
+
+ More: https://youtu.be/s99IGT8kBdQ
+----------------------------------------
+Tweet 42:
+Manchester City will submit a formal, opening bid to AC Milan for Tijjani Reijnders in the upcoming weeks.
+
+Reijnders wants to focus on final games of the season with Milan and Man City respect that; then bid will follow next as he’s the main target at #8.
+----------------------------------------
+Tweet 43:
+Lamine Yamal’s agent Jorge Mendes: “Lamine will win the Ballon d’Or.
+
+“He’s so happy and he’s gonna SIGN new deal at the club soon”.
+----------------------------------------
+Tweet 44:
+Raphinha signed new deal at Barça until June 2028…
+
+…with Lamine, Eric García and Inigo Martínez next on Deco’s list of new deals.
+----------------------------------------
+Tweet 45:
+Official, confirmed: Pablo Barrios signs new deal at Atlético Madrid until June 2030.
+----------------------------------------
+Tweet 46:
+Next week will be Xabi Alonso’s week at Real Madrid: plan confirmed. 
+ Xabi Alonso is ALREADY working for Real Madrid.
+
+He will also travel to Madrid next week. @FabrizioRomano
+----------------------------------------
+Tweet 47:
+Official, confirmed. Raphinha signs new long term deal at Barcelona until June 2028.
+----------------------------------------
+Tweet 48:
+Jude Bellingham’s letter for Luka Modrić 
+
+“The only thing outweighing my sadness right now is the gratitude I feel for having had the honour of being your teammate.
+So many great memories on and off the pitch that I will treasure forever.
+
+Your magic was never a surprise and
+----------------------------------------
+Tweet 49:
+Luka Modrić planned to continue at Real Madrid, it was his dream to stay… but Real Madrid have decided to part ways and open a ‘younger era’.
+
+Modrić always respected club’s decision and leaves on great terms as Real legend.
+
+Final game at the Bernabéu on Saturday.
+----------------------------------------
+Tweet 50:
+BREAKING: Luka Modrić LEAVES REAL MADRID at the end of the season.
+
+He will play his LAST GAME as Real Madrid player at the Bernabéu this weekend with special farewell.
+----------------------------------------
+Tweet 51:
+Luka Modrić’s letter to Real Madrid fans.
+
+“Dear Madrid fans,
+
+Time has come. The moment I never wanted to come, but that's football, and in life everything has a beginning and an end... On Saturday I will play my last match at the Santiago Bernabéu.
+
+I arrived in 2012 with
+----------------------------------------
+Tweet 52:
+Official, confirmed. Luis Campos has signed new deal at Paris Saint-Germain until June 2030! 
+
+“I am delighted to continue my story with QSI to 2030. I very much look forward to writing more history at QSI in the coming years”, says Campos.
+----------------------------------------
+Tweet 53:
+Bayer Leverkusen made progress in talks with Erik ten Hag to become their new head coach.
+
+Ten Hag has given his total availability after direct contact taking place earlier this week.
+----------------------------------------
+Tweet 54:
+Paris Saint-Germain and Luis Campos have reached an agreement in principle over new deal!
+
+The Sporting Advisor who made huge job with Nasser Al Khelaifi and Luis Enrique will stay at PSG, as 
+@FabriceHawkins
+ reports.
+
+Always priority to PSG; never in talks with Man United.
+----------------------------------------
+Tweet 55:
+#PSG
+ Luis Enrique on his future: “I’m so happy here at PSG because together with Luis Campos and Nasser Al Khelaifi we can project a team appreciated by our fans”.
+
+ Reports on Luis Campos in talks to join Man United were always described as wide of mark, as reported.
+----------------------------------------
+Tweet 56:
+Mamardashvili on future at Liverpool: “I’m not considering another loan move. I will spend next season at Liverpool”.
+
+“I’ll go to Liverpool and give my all, just like I did at Valencia. I’ll work hard every single day, training with Alisson will help me”, told 
+@Geo__team
+.
+----------------------------------------
+Tweet 57:
+Mikel Arteta: “If you want to win major trophies, you have to be the best in the market”.
+
+“The teams that win have the best players, always, at this level”.
+----------------------------------------
+Tweet 58:
+Rasmus Højlund keeps attracting interest from Italy — understand Inter are also considering him as option for this summer.
+
+After Juventus and Napoli calls in March, Inter also explored Højlund situation. It’s up to Man United.
+
+ Italian video: https://youtu.be/ECQxLlrSvd4
+----------------------------------------
+Tweet 59:
+Arteta on Rodrygo links for Arsenal: “I won’t name any specific player but we have brought the club into a position that next season, you HAVE to win a major trophy”.
+
+“Everybody believes that we are an elite team in this country and in Europe. Arsenal is there”.
+
+“We have
+----------------------------------------
+Tweet 60:
+Chelsea insist on their plans to keep Enzo Fernández despite links with Real Madrid, no intention to sell.
+
+He’s considered a key part of long term project and also a leader in the dressing room.
+
+ More: https://youtu.be/LKlbHT2CbPA
+----------------------------------------
+Tweet 61:
+Raphinha signs new deal at Barcelona until June 2028 today, plan confirmed.
+----------------------------------------
+Tweet 62:
+Barça director Deco: “Nico is a top player… but last summer Dani Olmo really wanted to come to Barcelona, showed confidence in the project and so made it easier for us”.
+
+“Nico did NOT do that”.
+----------------------------------------
+Tweet 63:
+Barça director Deco on wingers: “We like Luis Diaz, we like Rashford… and we like other wingers too”.
+
+“We can't talk about players under contract with other clubs”.
+----------------------------------------
+Tweet 64:
+Deco on Ronald Araujo’s future: “We are happy with Ronald. Ronald is happy, and that's why there's no discussion about his future”, told RAC1.
+----------------------------------------
+Tweet 65:
+Barça director Deco: “Lamine Yamal did NOT ask to be the highest paid player on the team. It's not true”.
+
+“He just wants to he happy here, that’s what he tells us and his agents too”, told RAC1.
+----------------------------------------
+Tweet 66:
+Barça director Deco on goalkeepers: “The idea is for Ter Stegen and Szczesny to continue”.
+
+“It’s true, if you think about next year or two, we would have to look for another keeper. We have talented keepers at La Masia too, we could give them chances”, told RAC1.
+----------------------------------------
+Tweet 67:
+After Taça de Portugal final, Real Madrid will accelerate talks with Benfica for Álvaro Carreras. Plan confirmed.
+
+The player has already accepted Real Madrid as next destination with contract terms also ready.
+
+Club to club talks to enter key stages after the game.
+----------------------------------------
+Tweet 68:
+Bruno Fernandes: “I will be here until the club says to me that it’s time to go”.
+
+“If the club thinks it’s time to part ways because they want to do some cash in or whatever, it’s what it is… and football sometimes is like this”.
+----------------------------------------
+Tweet 69:
+Garnacho: “Until the final, I played every round helping the team… then the final arrives and I play 20 minutes?! I don’t know”.
+
+“The final, the season, the whole situation of the club… I will try to enjoy the summer and then we will see what happens”.
+----------------------------------------
+Tweet 70:
+Alejandro Garnacho: “It’s difficult for all of us. This season has been shit”.
+
+“We lost the final, we didn’t beat anyone in PL. It’s very difficult”.
+----------------------------------------
+Tweet 71:
+Bruno Fernandes: “My point of view has never been the financial side”.
+
+“If I want to go for a financial side I will always have the option to go, but that’s not the thing. What I want is to win trophies and be involved in the best competitions”.
+----------------------------------------
+Tweet 72:
+Sturm Graz agree deal to sign Axel Kayombo as 19 year old talent will join from FC Basel.
+
+4 year deal agreed, €2m transfer fee and medical to follow.
+----------------------------------------
+Tweet 73:
+Bruno Fernandes: “I do think Rúben Amorim is the right man for us”.
+
+“I don’t think what happened this season shows exactly what he is as a manager. I do think he’s the right manager for the future of this club”.
+----------------------------------------
+Tweet 74:
+Dalot: “This club must not die and will never die. Being in pain is positive, it's the first step towards change”.
+
+“There’s a lot of things we need to change, whether its behaviours every day.
+
+“Standards need to be a LOT higher”.
+----------------------------------------
+Tweet 75:
+Alejandro Garnacho: “Cuti Romero is the best centre back in the world”, told ESPN.
+----------------------------------------
+Tweet 76:
+Rúben Amorim on whether he should have started Garnacho over Mason Mount: “It's easy to say that now”.
+
+“Who missed the big opportunity in the first half in the semi-final? Garnacho. Football is like that”.
+----------------------------------------
+Tweet 77:
+Rúben Amorim: “I’m confident in doing this job if the board let me. And as you can see, I am confident in my job”.
+
+“I will NOT change anything in the way I do things. I’m not here to defend myself”.
+----------------------------------------
+Tweet 78:
+Ange Postecoglou on his future: “I'd be disappointed if I couldn't continue on this path. Mate, I'm a winner. I've been a winner my whole career”.
+
+“Even when I signed, Daniel Levy said we went after winners and it didn’t work, now we've got Ange”.
+----------------------------------------
+Tweet 79:
+Rúben Amorim: “I will not quit. I am confident in my job and I will not change anything”.
+
+“If the board or fans feel that I’m not the right guy, I will go the next day without any conversation about compensation… but I will NOT quit”.
+----------------------------------------
+Tweet 80:
+Ange Postecoglou on ‘always win things on second season’: “Let me clarify, I wasn't boasting. I just had something inside me: we needed to win”.
+
+“People have taken shots at the club, and I have felt at times we haven't defended ourselves as strongly as we should”.
+----------------------------------------
+Tweet 81:
+What it means for Son, his first trophy for Spurs!
+----------------------------------------
+Tweet 82:
+Cuti Romero, Man of the Match for the Europa League final!
+----------------------------------------
+Tweet 83:
+Spurs are Europa League champions as they win their first major trophy in 17 years beating Man United!
+
+…and they will play Champions League football next season
+----------------------------------------
+Tweet 84:
+Rúben Amorim: “I waited so long to change clubs because I only wanted this club, Man United”.
+
+“I'll stay here as long as the club wants me to”.
+----------------------------------------
+Tweet 85:
+Hansi Flick and president Laporta after signing new deal until June 2027.
+----------------------------------------
+Tweet 86:
+Cristiano Ronaldo reaches 935 career goals as he scores for Al Nassr.
+----------------------------------------
+Tweet 87:
+Official, confirmed. Hansi Flick signs new deal at Barcelona until June 2027!
+----------------------------------------
+Tweet 88:
+Hansi Flick arrives to sign new deal!
+----------------------------------------
+Tweet 89:
+All set @ San Mamés!
+----------------------------------------
+Tweet 90:
+Endrick has suffered an injury to the joint tendon of the hamstrings of his right leg.
+----------------------------------------
+Tweet 91:
+Understand Liverpool have contacted Bournemouth for Milos Kerkez deal with talks now advancing!
+
+Liverpool are also completing the agreement on personal terms with Kerkez, keen on the move.
+
+Negotiations underway between clubs on transfer fee.
+----------------------------------------
+Tweet 92:
+Al Ain have agreed deal Adis Jasic as new right back from Wolfsberger AC on a three year deal.
+
+Medical tests was done and finished in Austria last week, the player will fly to join the squad end of May. He will be ready for FIFA Club World Cup.
+----------------------------------------
+Tweet 93:
+Understand Liverpool have offered new 4 year deal to 19 year old talented centre back Wellity Lucky.
+
+Current contract ends this summer and Liverpool are trying to keep him while clubs in Spain and Germany are also in negotiations trying to sign him.
+----------------------------------------
+Tweet 94:
+FC Porto are advancing on agreement with Al Ahli for Gabri Veiga!
+
+Negotiations underway for transfer fee around €16/17m, talks continue between all parties involved.
+----------------------------------------
+Tweet 95:
+Kevin De Bruyne will make decision soon on his next club.
+
+ Napoli have made important contract proposal to KDB — and they’d be ready to close the deal any moment from now.
+
+ Chicago Fire bid remains on the table as revealed since April.
+
+KDB will decide with his family.
+----------------------------------------
+Tweet 96:
+Joshua Zirkzee, officially part of Man United squad to face Spurs tonight.
+----------------------------------------
+Tweet 97:
+Understand Martin Baturina’s expected to leave Dinamo Zagreb this summer for potential transfer fee around €20/25m.
+
+English and Italian clubs in addition to Eintracht Frankfurt have already made contact over potential move.
+----------------------------------------
+Tweet 98:
+Cesc Fabregas confirms exclusive story on Como plans to sign Yeremay from Depor: “We are following Yeremay, yes… he’s an excellent player”.
+
+Como are willing to pay release clause in excess of €30m.
+----------------------------------------
+Tweet 99:
+Alex Valle will become new Como player for €6m fee, plan confirmed. 
+ Understand Como are set to trigger €6m release clause for Alex Valle to sign him on permanent deal from Barcelona.
+
+Intention and plans clear on club side as they’re set to offer Valle a long term deal.
+
+He’s key part of Cesc Fabregas plans at the club.
+----------------------------------------
+Tweet 100:
+The plan is confirmed: Lucas Vázquez will leave Real Madrid after the FIFA Club World Cup.
+----------------------------------------
+Tweet 101:
+EXCLUSIVE: Aston Villa are in talks to sign Feyenoord talent Zepiqueno Redmond, as he’s considered a striker with important potential.
+
+There are also UK and Italian clubs keen with player now set to make final decisions soon, Villa leading the race and in good position.
+----------------------------------------
+Tweet 102:
+Oliver Boscagli has signed his contract as new Brighton player valid from the beginning of July.
+
+Free transfer completed for the centre back from PSV Eindhoven, ready for new chapter in PL.
+----------------------------------------
+Tweet 103:
+Pep Guardiola: “I don't want to have 24, 25, 26 players when everyone is fit. I told the club I don’t want that”.
+
+“If I have injuries, unlucky! We will have some players from the Academy and we will do it”.
+----------------------------------------
+Tweet 104:
+Moritz Jenz can leave this summer with several clubs keen especially from Serie A.
+
+Regardless of Mainz triggering the buy option or returning to Wolfsburg, he’s expected to try new chapter.
+----------------------------------------
+Tweet 105:
+Today is Hansi Flick day at Barça with contract signing and formal announcement expected to take place.
+
+New deal until June 2027… and then, Raphinha next.
+----------------------------------------
+Tweet 106:
+Matheus Cunha has decided to join Man United project regardless of the access to next Champions League.
+
+He wants the move, talks are at final stages and the deal is expected to be sealed soon as revealed.
+----------------------------------------
+Tweet 107:
+19 year old midfielder Sergej Levak plans to leave AS Roma as free agent at the end of the current season.
+
+He’s out of contract and several Italian clubs have started to open talks.
+----------------------------------------
+Tweet 108:
+Kevin De Bruyne: “After 10 years, it was about time that somebody let me talk a bit...”.
+
+“It's time to say goodbye, I'll be back, but we love you, and see you soon!”.
+----------------------------------------
+Tweet 109:
+Carvajal: “Competition with Trent? Yes, that’s clear. It’s not official yet, but it looks like it!”.
+
+“Fear? No, there is no fear here. We will be teammates. The competition will strengthen both of us and will bring out our best”.
+----------------------------------------
+Tweet 110:
+Tochi Chukwuani could be on the move this summer as Sturm Graz midfielder has attracted interest.
+
+Hoffenheim, Wolves and French clubs are all tracking Tochi’s situation as he’s about to win the Austrian title this year.
+----------------------------------------
+Tweet 111:
+Pep Guardiola: “I told the club I don't want a big squad. I don’t want to put five, six players in the tribune, I don't want that. I will quit”.
+
+“If they don't make a short squad, I will not stay”.
+
+"It's impossible for my soul to put players in the tribune and cannot play”.
+----------------------------------------
+Tweet 112:
+AC Milan are preparing documents to seal Igli Tare’s appointment as new sporting director.
+
+Tare has already accepted the proposal, now waiting for formal steps to follow.
+----------------------------------------
+Tweet 113:
+Official: Manchester City confirm they will be erecting a statue of Kevin De Bruyne outside the Etihad Stadium.
+----------------------------------------
+Tweet 114:
+Alvaro Carreras wants to join Real Madrid and his plan has not changed.
+
+No bid or club to club talks yet but understand Real will approach Benfica after Taça de Portugal final to reach an agreement.
+
+Carreras has already agreed terms with Real, as 
+@SrNaninho
+ reported.
+----------------------------------------
+Tweet 115:
+The perfect night for Man City!
+----------------------------------------
+Tweet 116:
+Rodri, back on the pitch for Man City after 50 games out due to injury!
+----------------------------------------
+Tweet 117:
+The end of the Kevin De Bruyne era.
+----------------------------------------
+Tweet 118:
+Lucas Vázquez will leave Real Madrid as reported last week, plan confirmed.
+ Lucas Vázquez and Real Madrid are expected to part ways at the end of the season, with Spanish RB leaving as free agent.
+
+The plan is for Lucas to play at FIFA Club World Cup if nothing happens before; and then try new chapter after Trent’s arrival.
+----------------------------------------
+Tweet 119:
+Barcelona have reached an agreement with Raphinha over new deal, all done! 
+
+The Brazilian will sign until June 2028, one more important renewal for Barça with Deco’s huge work in recent months.
+
+Flick signs new deal tomorrow… and then time for Raphinha.
+----------------------------------------
+Tweet 120:
+Omar Marmoush scores a golazo for Man City making it 7 goals, 2 assists since joining the club in January.
+----------------------------------------
+Tweet 121:
+Rúben Amorim: “Bruno wants my job! He will be a very good coach”.
+----------------------------------------
+Tweet 122:
+Man City fans pay tribute to Kevin De Bruyne on his final home appearance!
+----------------------------------------
+Tweet 123:
+Here we go podcast on Man United and Spurs.
+
+◉ Cunha wants United regardless of UEL final.
+◉ Spurs will try to find solution to keep Tel.
+◉ Gyökeres remains on #MUFC shortlist for new striker.
+◉ Dibling, Eze and more.
+
+ More 
+@MenInBlazers
+:
+----------------------------------------
+Tweet 124:
+Olivier Boscagli joins Brighton from PSV, done deal and here we go!
+
+Agreement sealed for the centre back as 
+@talksport
+ reported today. New addition for Fabian Hürzeler.
+----------------------------------------
+Tweet 125:
+Spurs U18 talent Ellis Lehane has signed a new two year deal at Tottenham Hotspur today keeping him at the club until June 2027.
+
+Despite approaches from UK and German clubs, Lehane has decided to stay at #THFC after scoring 17 goals in all youth competitions.
+----------------------------------------
+Tweet 126:
+BREAKING: Rodri returns as part of Manchester City squad after long injury!
+
+He’s on the bench tonight vs Bournemouth.
+----------------------------------------
+Tweet 127:
+FC Porto are among clubs keen on signing Gabri Veiga from Al Ahli this summer.
+
+He’s on the list and highly appreciated since January, as 
+@marcosbenito9
+ reports.
+
+Veiga could leave Saudi Pro League this summer.
+----------------------------------------
+Tweet 128:
+Ange Postecoglou: “I’m not a clown”.
+@BeanymanSports
+----------------------------------------
+Tweet 129:
+Postecoglou on whether he'd walk away from Spurs if he won the Europa League: “No, I don't think my job is done here”.
+
+“I think a trophy would accelerate that and I think there's a lot still to be done”.
+----------------------------------------
+Tweet 130:
+Lucas Bergvall will not be available against Man United, confirms Ange Postecoglou.
+----------------------------------------
+Tweet 131:
+Joshua Zirkzee has recovered from injury and he’s on his way to Bilbao with Man United squad.
+----------------------------------------
+Tweet 132:
+Atlético president Cerezo: “Julián Álvarez is a player of Atlético de Madrid, he’s very happy here, he is our player and he will remain our player”.
+
+“He was raised at Atlético de Madrid and he will die at Atlético de Madrid”.
+----------------------------------------
+Tweet 133:
+What if Pepsi’s new icons could go back in time? They wouldn’t think twice. Lauren James, 
+@alexiaputellas
+, 
+@Farah_Jefry
+ , Leah Williamson and Caroline Graham Hansen join 
+@pepsi
+ legends 
+@Pele
+ , 
+@10Ronaldinho
+ and David Beckham to #RefreshTheGame #ThirstyForMore #Pepsi #PepsiMAX
+----------------------------------------
+Tweet 134:
+Pepe Reina retires from professional football, leaves Como and he will sign at Villarreal as new coach of Juvenil A team.
+----------------------------------------
+Tweet 135:
+Official: Abdoulaye Doucoure will leave Everton at the end of the season upon the expiry of his contract.
+----------------------------------------
+Tweet 136:
+Bayern remain clear favorites to sign Jonathan Tah as free agent ahead of Barcelona at this stage.
+
+The official proposal from Bayern for long term deal is in player’s hands, now up to Tah to make a decision soon.
+----------------------------------------
+Tweet 137:
+One more round of talks between Inter and OM for Luis Henrique, agreement with the player since April…
+
+…and then deal expected to be done. 
+ Inter are planning to continue talks with OM for Luis Henrique in the next days after personal terms agreed with the Brazilian. Inter want final answer ahead of FIFA Club World Cup.
+
+Luis Henrique already said yes to Inter project, up to the clubs; more talks to follow.
+----------------------------------------
+Tweet 138:
+AC Milan are closing in on the agreement with Igli Tare as new sporting director.
+
+Deal almost done, working on formal steps. 
+@MatteMoretto
+----------------------------------------
+Tweet 139:
+Jeremie Frimpong will sign his contract at Liverpool in the next 24 hours, deal confirmed.
+
+Dutch RB has completed first and second part of his medical with formal steps and announcement to follow.
+
+Here we go, confirmed.
+----------------------------------------
+Tweet 140:
+Diogo Dalot, Joshua Zirkzee and Leny Yoro, back in team training today for Man United ahead of tomorrow’s final.
+----------------------------------------
+Tweet 141:
+#LFC
+ BREAKING: Jeremie Frimpong set to join Liverpool, here we go! 
+
+Agreement done for Dutch right back as Bayer Leverkusen are informed on €35m release clause being triggered.
+
+Understand Frimpong will sign a five year deal with medical now being scheduled.
+
+New RB for
+----------------------------------------
+Tweet 142:
+Fulham have triggered an extra year… but Harry Wilson will either sign a new deal or leave the club this summer.
+
+Wilson, not expected to play on the year extension.
+----------------------------------------
+Tweet 143:
+More on Matheus Cunha exclusive story. Man United are set to approach also Wolves to proceed with £62.5m release clause payment in installments.
+
+The deal is almost done on player side as revealed yesterday, with final details being clarified.
+
+Cunha said YES.
+----------------------------------------
+Tweet 144:
+Jürgen Klopp’s agent Mark Kosicke: “Reports on Klopp becoming new AS Roma manager are not true”, told 
+@winwinallsports
+.
+----------------------------------------
+Tweet 145:
+Laporta: “Frenkie de Jong new deal? His situation is urgent. We don’t want a player who only has a one-year contract”.
+
+“He knows that and we’ve talked about it. He’s very motivated. We really like the Dutch school of play. With him, we dominate the game”, told TV3.
+----------------------------------------
+Tweet 146:
+Joan Laporta on signing Erling Haaland: “Nothing in life is impossible”.
+
+“Although, we’re not thinking that right now and he just renewed at City”, told TV3.
+----------------------------------------
+Tweet 147:
+Laporta: “Raphinha’s new deal will happen. Deco has a strong connection with Rapha. The player feels very involved with the project”.
+
+“We will reach an agreement because we want him to stay and he wants to stay”.
+----------------------------------------
+Tweet 148:
+Bayer Leverkusen gem Kerim Alajbegović has attracted interest from several top clubs as he’s considered one of the best 2007 born talents in Europe.
+
+Bayer see Kerim as important part of long term project with future step/potential loan to be discussed soon.
+----------------------------------------
+Tweet 149:
+EXCL: Manchester United are now closing in on Matheus Cunha deal! 
+
+The Brazilian has accepted the project as agreement on personal terms is now being finalised, almost done.
+
+Final details to sort between all parties involved… and then, here we go.
+----------------------------------------
+Tweet 150:
+Laporta: “Lamine Yamal has already accepted our contract proposal. We just need him to sign as soon as he turns 18”.
+----------------------------------------
+Tweet 151:
+Laporta: “Raphinha and Iñigo's renewals are also advanced. We want to complete all renewals and then new signings will come”.
+----------------------------------------
+Tweet 152:
+Barça president Laporta: “We’ve signed Szczesny for his experience and we offered him a new contract”.
+
+“We hope he continues!”, told TV3.
+----------------------------------------
+Tweet 153:
+Jorginho will play the FIFA Club World Cup as Flamengo player after receiving the green light from Arsenal.
+
+Deal sealed.
+----------------------------------------
+Tweet 154:
+Laporta on Nico Williams to Barça: “We valued Nico as potential signing last summer with Dani Olmo, but right now i think the club is valuing other players”.
+----------------------------------------
+Tweet 155:
+Laporta on Barça summer plans: “There will be changes in our squad this summer”.
+
+“Our rivals will also strengthen because they have seen that our team is the best right now”.
+----------------------------------------
+Tweet 156:
+Joan Laporta: “Barça will earn around €950m. That’s almost a billion euros”.
+
+“We’re very confident that we’ll be within the 1:1 rule”, told TV3.
+----------------------------------------
+Tweet 157:
+Harvey Elliott on his future: “It's about what's best for my career”.
+
+“It's about reflecting and seeing what I can do. I'm here at the moment and I'm focusing on the final game”.
+----------------------------------------
+Tweet 158:
+Arne Slot on Frimpong deal: “I think what we all know is the moment we announce it, that is the moment we talk about it in general”.
+----------------------------------------
+Tweet 159:
+Angel Gomes confirms decision to leave Lille as free agent this summer.
+
+Several clubs have started contacts to sign Gomes on free deal, OM are in the race and more clubs too.
+----------------------------------------
+Tweet 160:
+Juventus director Giuntoli: “Igor Tudor future? Let me say, he’s had a great impact. He’s doing very well”.
+
+“Tudor will stay with us for FIFA Club World Cup and then we will see”.
+----------------------------------------
+Tweet 161:
+Ricardo Kaká: “If the opportunity arises, I'm ready to return to the Seleção”. 
+
+“I'm prepared. Since 2017 I wanted to prepare myself. I took business courses in sports at Harvard, I took the coach course at CBF, I have experience in national team, World Cup”, told Caze TV.
+----------------------------------------
+Tweet 162:
+Manchester City have currently left the negotiations for Florian Wirtz.
+
+Talks were never advanced or at final stages, just initial approaches but City believe full package is too expensive, as 
+@SamiMokbel_BBC
+ reports.
+
+ Morgan Gibbs-White remains on Man City shortlist.
+----------------------------------------
+Tweet 163:
+Hansi Flick’s new deal at Barça until June 2027, to be announced this week.
+ It’s all done and set to be announced for Hansi Flick’s new deal at Barcelona until June 2027.
+
+Official statement, next step.
+----------------------------------------
+Tweet 164:
+Manchester City plan to advance on Morgan Gibbs-White deal in the next weeks as he remains one of the priority targets.
+
+No issues are expected on personal terms but work to do with Nottingham Forest as they still hope to keep MGW.
+----------------------------------------
+Tweet 165:
+Official: Ballon d'Or ceremony will take place on September 22, 2025 in Paris.
+
+Who’s your winner?
+----------------------------------------
+Tweet 166:
+Como see Cesc Fabregas as fully involved in their long term project and also crucial in transfer decisions.
+
+Fabregas is key also for the first big signing planned by Como for this summer, Yeremay.
+
+Italian club plans to trigger the release clause in excess of €30m.
+----------------------------------------
+Tweet 167:
+Major news for #MUFC fans from 
+@FabrizioRomano
+ !
+
+ Already approved by Ruben Amorim
+ Fresh contact in last 48 hours
+ Long-term deal now 'on the table'
+ Club view him as 'perfect'
+@ManUtd
+ are closing in on a huge signing!
+----------------------------------------
+Tweet 168:
+BREAKING: Francesco Farioli has now decided to leave Ajax with immediate effect.
+
+The head coach has informed the club’s board of his decision.
+----------------------------------------
+Tweet 169:
+Olympique Lyon confirm Rayan Cherki will leave the club in the summer, as player announced over the weekend.
+
+He’s ready for new chapter.
+----------------------------------------
+Tweet 170:
+The plan remains for Dusan Vlahović to part ways with Juventus this summer.
+
+No negotiations to extend his contract at the club currently expiring in June 2026, and his departure remains the most likely outcome.
+----------------------------------------
+Tweet 171:
+Hansi Flick on plans for next season: “I have seen people crying of joy from our success and that's fantastic”.
+
+“It's a responsibility for me to improve next season”.
+----------------------------------------
+Tweet 172:
+Final part of medical plus contract signing to take place in the next hours for Jeremie Frimpong as new Liverpool player.
+
+€35m release clause has been activated.
+----------------------------------------
+Tweet 173:
+Bayern hope to have Jonathan Tah’s green light as soon as possible after they sent contract proposal to the defender.
+
+More contacts expected to take place soon as Barcelona remain interested but nothing was done/sealed with Spanish side.
+----------------------------------------
+Tweet 174:
+Iliman Ndiaye reached 9 goals on his first season at Everton with club happy with his performances.
+
+Brace yesterday on the last game ever at Goodison Park.
+----------------------------------------
+Tweet 175:
+Marc Bernal: “I think I’ll be ready to return on the pitch around August this year”.
+----------------------------------------
+Tweet 176:
+Declan Rice: “Hopefully we strengthen in the summer, we sign more players, because we’re probably going to lose a few”.
+
+“With the team we’ve got, with the manager we’ve got, we need to be competing for titles. Next year, we’ll be back”, told Sky Sports.
+----------------------------------------
+Tweet 177:
+Galatasaray are Turkish champions!
+----------------------------------------
+Tweet 178:
+Mikel Arteta on this summer: “The ones upstairs will do what they have to do”.
+
+“Enjoy the season, go to the beach, and have a good time”.
+----------------------------------------
+Tweet 179:
+Jeremie Frimpong has completed first part of his medical as new Liverpool player, plan confirmed.
+
+Contract until June 2030 set to be signed as next step then deal official.
+
+Here we go, confirmed… and #LFC still want to add a left back this summer.
+----------------------------------------
+Tweet 180:
+Lamine Yamal scores again with his trademark beautiful goal… and makes it 19 goals, 22 assists this season.
+----------------------------------------
+Tweet 181:
+Arsenal beat Newcastle!
+----------------------------------------
+Tweet 182:
+BREAKING: Jeremie Frimpong set to join Liverpool, here we go! 
+
+Agreement done for Dutch right back as Bayer Leverkusen are informed on €35m release clause being triggered.
+
+Understand Frimpong will sign a five year deal with medical now being scheduled.
+
+New RB for #LFC.
+----------------------------------------
+Tweet 183:
+Barcelona president Laporta: “Lamine Yamal’s contract renewal has already been agreed upon”.
+
+“Now all that remains is the official signing”.
+----------------------------------------
+Tweet 184:
+Plan confirmed for Jeremie Frimpong, set to travel for medical and then sign the contract until June 2030 as new Liverpool player.
+
+It’s all set for the Dutch right back to join #LFC.
+----------------------------------------
+Tweet 185:
+Barça president Laporta: “We're working on renewing Frenkie de Jong’s contract”.
+
+“For sure he’s very excited to stay and we're absolutely determined to do whatever it takes to ensure he stays”.
+----------------------------------------
+Tweet 186:
+Mikel Arteta on the reasons why Arsenal didn’t win the Premier League: “Red cards and injuries - for sure”.
+
+“Would we be much closer? For me the answer is, without a question, yes”, told Sky Sports.
+----------------------------------------
+Tweet 187:
+Dani Carvajal: “It's been a long journey. My sports career is already nearing the end. I hope not, but I have to be realistic”.
+----------------------------------------
+Tweet 188:
+Rayan Cherki has decided to LEAVE Olympique Lyon this summer, the plan has been announced by the player in mixed zone tonight.
+
+“Thanks to OL, the coach, the staff, the president, my teammates and all people at the club”.
+----------------------------------------
+Tweet 189:
+BREAKING: Will Still leaves RC Lens, decision has been made.
+
+32 year old coach returns to England due to personal reasons.
+----------------------------------------
+Tweet 190:
+Angel Di Maria leaves Benfica as free agent at the end of the season, decision has been made.
+
+Di Maria won’t even be part of Benfica squad at FIFA Club World Cup.
+----------------------------------------
+Tweet 191:
+Viktor Gyökeres: “My next club? We can’t predict the future. We never know what happens”.
+
+“I’m focused now on celebrating this title and try win the Taça de Portugal”.
+----------------------------------------
+Tweet 192:
+Kevin De Bruyne: “I’m speaking to clubs about my future, yes. I want to play good football, whatever the decision”.
+
+“Staying in England? I t depends who comes... I have a family, kids, I have to take care of a decision that suits everybody. The decision is complex”, told Sky.
+----------------------------------------
+Tweet 193:
+Crystal Palace will play Europa League football next season!
+----------------------------------------
+Tweet 194:
+Crystal Palace win the first major trophy in their history!
+----------------------------------------
+Tweet 195:
+Claudio Echeverri makes his debut for Man City at Wembley in FA Cup final, after playing zero minutes since February.
+
+Big moment for the Argentinian talent who joined the club from River Plate.
+----------------------------------------
+Tweet 196:
+Kevin De Bruyne after his last final as Man City player.
+----------------------------------------
+Tweet 197:
+Dean Henderson: “I already knew I would save Marmoush' penalty, I knew where he was going”.
+
+“I lost my dad at the start of the season. And I'll miss him here today, but he was with me every kick of the ball. I dedicate that win to him”.
+----------------------------------------
+Tweet 198:
+Jeremie Frimpong, first summer signing for Liverpool.
+----------------------------------------
+Tweet 199:
+Harry Kane, Bundesliga topscorer with 26 goals this season.
+----------------------------------------
+Tweet 200:
+13 goals, 11 assists for Eberechi Eze at Crystal Palace this season…
+
+…and one more crucial goal today at Wembley vs Man City.
+----------------------------------------
+Tweet 201:
+OFFICIAL: Real Madrid confirm Dean Huijsen as first new signing for the new season.
+
+Contract until June 2030, as reported.
+----------------------------------------
+Tweet 202:
+Official soon.
+ Understand Dean Huijsen has now signed his contract as new Real Madrid player!
+
+Deal completed, all signed also between clubs with Bournemouth for £50m fee.
+
+Contract until June 2030, medical done yesterday in London.
+
+Huijsen will be ready to play the FIFA Club World Cup.
+----------------------------------------
+Tweet 203:
+Emi Martínez will assess all the options also from Europe after Saudi Pro League clubs approaches, as he’s expected to leave Aston Villa.
+
+Villa are among several clubs showing interest in Joan García, open race ahead.
+----------------------------------------
+Tweet 204:
+Enzo Maresca: “I don't think since I've been here we've spent more money than other clubs, just the same money”.
+
+“But we are building something important. People have to trust us. The club is working well, and hopefully in the future we can fight for important titles”.
+----------------------------------------
+Tweet 205:
+Understand Dean Huijsen has now signed his contract as new Real Madrid player!
+
+Deal completed, all signed also between clubs with Bournemouth for £50m fee.
+
+Contract until June 2030, medical done yesterday in London.
+
+Huijsen will be ready to play the FIFA Club World Cup.
+----------------------------------------
+Tweet 206:
+Rúben Amorim: “I’m happy with Højlund. All the team has to improve. But the way he runs, he fights for every ball”.
+
+“He loses a lot of duels, wins some duels. He needs to improve the connection, but he's improving. He just needs to continue to work hard”.
+----------------------------------------
+Tweet 207:
+Alberto Moleiro, expected to leave Las Palmas in the summer as current deal expires in June 2026 and he won’t extend.
+
+Moleiro was in the list at Villarreal in January while more clubs have joined the race to sign him now.
+----------------------------------------
+Tweet 208:
+Barcelona vice president Rafa Yuste: “We might announce Hansi Flick’s new deal next week”.
+
+It’s all done and sealed until June 2027.
+----------------------------------------
+Tweet 209:
+Xabi Alonso see Dean Huijsen as the perfect centre back for Real Madrid’s present and future.
+
+He’s been crucial to make the deal happen and anticipate Premier League clubs.
+----------------------------------------
+Tweet 210:
+@FabrizioRomano
+ reports for GMS:
+
+ Contract finalised + medical completed today
+ Arsenal, Chelsea and Liverpool in race ‘until the end’
+ Alonso considers Huijsen a ‘generational talent’ 
+
+Gutted to miss out, #AFC, #CFC, #LFC fans?
+----------------------------------------
+Tweet 211:
+BREAKING: Real Madrid agree all details of deal to sign Dean Huijsen, here we go! 
+
+Huijsen undergoing medical NOW then set to sign five year deal until 2030, Real Madrid will pay £50m to Bournemouth.
+
+Real see Huijsen as top talent and Xabi Alonso wanted to bring him in.
+----------------------------------------
+Tweet 212:
+Understand Dean Huijsen’s now in London undergoing main part of medical tests as new Real Madrid player.
+
+All approved by Bournemouth including medical, contract signing to take place soon and Dean’s presence at Club World Cup.
+----------------------------------------
+Tweet 213:
+Dean Huijsen’s presence at the FIFA Club World Cup with Real Madrid was never in doubt, already agreed after initial contact between clubs.
+
+He will be at the Club World Cup and his contract being sealed in these hours will be valid for FIVE years, 2030.
+----------------------------------------
+Tweet 214:
+Tottenham Hotspur top talent Mikey Moore has signed with new agents as he will be represented by Unique Sports Group.
+
+Spurs gem signed deal at the club until June 2027 last summer, one more addition for USG after Ethan Nwaneri.
+----------------------------------------
+Tweet 215:
+Hansi Flick: “It's a great season, we are very happy… but next season we can do better”.
+----------------------------------------
+Tweet 216:
+Lamine Yamal: “I’d like to thank Xavi, without him this was not gonna be possible”.
+
+“He gave us young players the opportunity to make our debuts. I would like to thank him”.
+----------------------------------------
+Tweet 217:
+Raphinha: “In January, some said we would only compete for 3rd place in La Liga... but we believed in ourselves”.
+----------------------------------------
+Tweet 218:
+Leo Messi congratulates Barça for their 28th La Liga title.
+----------------------------------------
+Tweet 219:
+Barcelona win La Liga for the 28th time in their history!
+----------------------------------------
+Tweet 220:
+41 goal contributions. 17 years old.
+----------------------------------------
+Tweet 221:
+Lamine Yamal. Again and again. What an insane goal vs Espanyol.
+----------------------------------------
+Tweet 222:
+Al Ittihad become champions of Saudi for the 10th time in their history!
+
+Back at it with Karim Benzema as leader, coach Laurent Blanc, stars like Diaby, Kanté, Fabinho, Aouar and the key job of director Ramón Planes.
+----------------------------------------
+Tweet 223:
+Harry Wilson, Adama Traoré and Raúl Jiménez stay at Fulham until June 2026 as club activated the options to extend their contracts.
+----------------------------------------
+Tweet 224:
+Rennes and director Ricky Massara part ways with immediate effect, decision confirmed.
+----------------------------------------
+Tweet 225:
+Jeremie Frimpong and Liverpool, just a matter of short time. 
+ Understand talks between Liverpool and Jeremie Frimpong’s camp over personal terms have advanced again today.
+
+Player’s always been keen on the move and Liverpool are progressing on salary, length of contract, every detail of the agreement.
+
+Deal close.
+----------------------------------------
+Tweet 226:
+Arsenal will receive €9m fee from Lazio for Nuno Tavares as part of loan with obligation to buy clause.
+
+#AFC will also mantain a sell-on clause, while Albert Sambi-Lokonga returns to Arsenal after loan spell at Sevilla.
+----------------------------------------
+Tweet 227:
+Real Madrid are in direct meeting with Dean Huijsen’s camp to complete the agreement on the contract.
+
+The agreement on £50m release clause with Bournemouth has been sealed on Wednesday, as reported.
+
+Matter of contract details with Huijsen’s camp, then… here we go.
+----------------------------------------
+Tweet 228:
+Nordsjælland talent Mario Dorgeles can leave the club this summer as several clubs have started approaches for the 20 year old.
+
+Premier League, La Liga and Bundesliga clubs are all keen on the Ivorian player.
+----------------------------------------
+Tweet 229:
+Carlo Ancelotti takes his first pic as Brazil head coach after signing deal to join the Seleçao.
+
+Here’s Ancelotti with Diego Fernandes taking care of talks on CBF behalf.
+----------------------------------------
+Tweet 230:
+Understand Dean Huijsen’s camp has landed in Madrid to close the deal with Real.
+
+Length of the contract being discussed with 5 year deal on the table.
+
+Deal done club to club for £50m clause to be paid in 3 installments, player’s contract being sorted.
+----------------------------------------
+Tweet 231:
+Suso will leave Sevilla at the end of the month, ready for new chapter as free agent.
+
+This weekend he’ll play his final game at the Sanchez Pizjuan.
+----------------------------------------
+Tweet 232:
+#LFC
+ Understand talks between Liverpool and Jeremie Frimpong’s camp over personal terms have advanced again today.
+
+Player’s always been keen on the move and Liverpool are progressing on salary, length of contract, every detail of the agreement.
+
+Deal close.
+----------------------------------------
+Tweet 233:
+Understand talks between Liverpool and Jeremie Frimpong’s camp over personal terms have advanced again today.
+
+Player’s always been keen on the move and Liverpool are progressing on salary, length of contract, every detail of the agreement.
+
+Deal close.
+----------------------------------------
+Tweet 234:
+Xabi Alonso asked Real Madrid to accelerate on Dean Huijsen deal as ideal quick solution for a top talent…
+
+…as Premier League clubs wanted to get the deal done already last week, but Dean decided to wait and give priority to Real Madrid.
+
+Key meeting took place on Monday.
+----------------------------------------
+Tweet 235:
+Maxi Oyedele will not join Shakhtar Donetsk despite approaches as there are more European clubs keen on signing former Man Utd player.
+
+Understand #MUFC will receive 40% of the future sale for €6m release clause available this summer included into his Legia Warsaw deal.
+----------------------------------------
+Tweet 236:
+Sérgio Conceição’s chapter at AC Milan will be over at the end of the season, as always planned.
+
+João Félix will leave Milan and return to Chelsea, also. 
+ Sérgio Conceição’s chapter at AC Milan, still expected to be over at the end of the season.
+
+No changes expected for both Conceição and João Félix, both expected to be out of AC Milan in the summer.
+
+João Félix will return to Chelsea.
+----------------------------------------
+Tweet 237:
+Kylian Mbappé scores for Real Madrid and reaches 40 goals on his first season at the club.
+
+Massive impact.
+----------------------------------------
+Tweet 238:
+Bournemouth have approved Real Madrid conditions for Dean Huijsen deal with £50m release clause to be paid by the end of 2026. Deal done club to club.
+
+Final green light needed to proceed and seal the deal with player’s camp as Huijsen always gave priority to Madrid.
+----------------------------------------
+Tweet 239:
+Official, story confirmed: Eric Dier becomes new AS Monaco player from FC Bayern!
+----------------------------------------
+Tweet 240:
+More on Dean Huijsen. Real Madrid contract proposal, in player’s hands now with discussions underway.
+
+Real Madrid also talk to Bournemouth about £50m release clause structure and installments.
+
+The player has been clear during meeting on Monday; his priority is Real Madrid.
+----------------------------------------
+Tweet 241:
+EXCL: Real Madrid have sent formal contract proposal to Dean Huijsen and his camp today, talks ongoing to sign Spanish CB.
+
+Negotiations continue while Chelsea, Arsenal and Liverpool remain ready to enter the race in case of complications.
+
+Real remain player’s priority.
+----------------------------------------
+Tweet 242:
+Rúben Amorim: “I am FAR from quitting”.
+
+“What I'm saying is since I arrived here I talk about standards. I cannot see the team having these results in the Premier League and say nothing and not take responsibility”.
+----------------------------------------
+Tweet 243:
+Dejan Kulusevski suffered an injury to his right patella and he has undergone surgery today.
+
+Spurs player will commence his rehabilitation with medical staff immediately.
+----------------------------------------
+Tweet 244:
+Official: Jonathan David confirms he’s leaving Lille as free agent at the end of the current season.
+
+David has a formal proposal on the table from Napoli to join on free transfer; deal not sealed yet.
+----------------------------------------
+Tweet 245:
+Xavi Simons’ decision has been made: he’s ready to leave RB Leipzig this summer.
+
+Plan confirmed as reported in the recent months, he’s ready for new chapter with top Premier League clubs and Bayern all attentive to his situation.
+
+RB Leipzig, aware of the player’s plan.
+----------------------------------------
+Tweet 246:
+Xavi Simons plans for potential summer move as concrete possibility, as reported weeks ago.
+
+Premier League clubs are informed as it’s the most likely destination for fee around €75m to RB Leipzig.
+
+Xavi dreams to play for Barça one day, but it’s unlikely for this summer.
+----------------------------------------
+Tweet 247:
+Flick: “We have spoken to Ronald Araújo. We all made mistakes in Milan… We all fail at some point, no matter the profession”.
+
+“We've all been through such situations, it’s key how to handle them. That’s why I want to protect Araújo, he’s not the only one who made a mistake”.
+----------------------------------------
+Tweet 248:
+Hansi Flick: “When you see the stat that Real Madrid didn’t touch the ball in our half for 24 minutes, that speaks to our pressing”.
+
+“It was incredible to watch. Let’s be proud”.
+----------------------------------------
+Tweet 249:
+Hansi Flick: “New deal? It’s not time to comment on that but… I want to stay at Barça for one more year, for sure! I’m so happy here”.
+----------------------------------------
+Tweet 250:
+Rodrygo: “Thank you for all your messages and concerns. I’ll be back soon”.
+
+“Stop making things up”.
+----------------------------------------
+Tweet 251:
+Jacob Wright leaves Man City and becomes Norwich City player on permanent transfer, deal done.
+
+Norwich only had the right to make the transfer permanent if Jacob started 9 games, the target was hit and Norwich now sign Wright for £2.3m transfer fee.
+----------------------------------------
+Tweet 252:
+Juventus have agreed deal to sign 18 year old Dutch defender Shane van Aarle from Eindhoven, it’s all signed and sealed.
+
+Van Aarle will be part of Next Gen project as talent for long term plans, documents in place.
+----------------------------------------
+Tweet 253:
+Maximo Perrone will play for Como next season under Fabregas, plan clear as revealed in April.
+
+Como have offered €12m for permanent move, Man City want €30m package to get it done now.
+
+Talks continue but Perrone will play at Como as they’ve +1 year loan extension clause.
+----------------------------------------
+Tweet 254:
+Maximo Perrone will stay at Como from Man City, confirmed. 
+ Understand Como will keep Maximo Perrone also next season from Manchester City, decision already made.
+
+Como have an option to extend the loan and  they will surely activate it, #MCFC are informed.
+
+…but Como and City are also in talks now over a permanent transfer.
+----------------------------------------
+Tweet 255:
+Barça director Deco confirms: “There will be no problems for Lamine Yamal’s new contract”.
+----------------------------------------
+Tweet 256:
+Bayern formal proposal to Jonathan Tah has been approved internally at the club, salary included.
+
+Green light needed from the player in order to close the deal and get it done, as final crucial step. Up to Jonathan Tah.
+----------------------------------------
+Tweet 257:
+No changes on Manchester United and Matheus Cunha deal: talks remain ongoing with positive feelings on both sides.
+
+The deal remains at advanced stages, working on details of the agreement.
+----------------------------------------
+Tweet 258:
+Real Madrid had a direct contact with Dean Huijsen’s camp and player’s priority is confirmed.
+
+Real also registered release clause details: £50m to be paid in 3 installments, not in one solution.
+
+ Timing will be key as Chelsea, Liverpool and Arsenal are ready to advance.
+----------------------------------------
+Tweet 259:
+Mexican side Tigres are closing in on deal to sign Ángel Correa from Atléti on €6m transfer fee, per 
+@MatteMoretto
+.
+
+Verbal agreement at the final stages with formal steps still needed to get it sealed.
+----------------------------------------
+Tweet 260:
+‘Here we go podcast’ on Xabi era.
+
+◉ Xabi Alonso only wanted Madrid, Florentino key.
+◉ Vázquez to leave, Lunin one to watch.
+◉ Arda Güler to be important under Xabi.
+◉ Centre back will be signed, LB also in list.
+ Huijsen…
+
+More 
+@MenInBlazers
+: https://youtu.be/4T7q1eXlJkg?si=c0Q6FrAtWGqARptZ…
+----------------------------------------
+Tweet 261:
+Napoli have approached Shakhtar Donetsk for Georgiy Sudakov; but the club wants more than initial package in excess of €35m offered in order to give the green light.
+
+Sudakov, understood to be keen on eventual move to Napoli but no club-to-club agreement so far.
+----------------------------------------
+Tweet 262:
+Former Ballon d’Or Fabio Cannavaro has been approached by two top clubs in Mexico in the recent days.
+
+Talks have taken place with Cannavaro open to the challenge and intrigued by the idea of managing in Liga MX.
+----------------------------------------
+Tweet 263:
+Barça director Deco: “Last year I said we couldn’t afford to lose anyone, and I think that still applies”.
+
+“If we can improve, great — but the key is keeping what we’ve built for the future”.
+
+“We need to take care of the players we have”, told ESPN.
+----------------------------------------
+Tweet 264:
+Barça director Deco: “We feel a lot of dependency on Raphinha and Lamine Yamal”.
+
+“Maybe we need players with similar profiles to give us more options in those areas”, told ESPN.
+----------------------------------------
