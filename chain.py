@@ -27,7 +27,7 @@ def format(rows):
     return context
 
 def generate_summary(entity: str, context: str) -> str:
-    llm = init_chat_model("gpt-3.5-turbo", model_provider="openai")
+    llm = init_chat_model("gemini-2.0-flash", model_provider="google_genai")
     prompt = PromptTemplate(
         input_variables=["entity", "context"],
         template=(
