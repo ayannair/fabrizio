@@ -50,7 +50,7 @@ def scrape():
     pause_time = 3
     step = 500
 
-    for i in range(20):
+    for i in range(50):
         driver.execute_script(f"window.scrollBy(0, {step});")
         time.sleep(pause_time)
         extract_tweets()

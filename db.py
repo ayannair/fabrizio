@@ -8,7 +8,7 @@ word_pattern = r'\b\p{Lu}\p{L}+\b'
 
 conn = sqlite3.connect("tweets.db")
 cursor = conn.cursor()
-
+cursor.execute('DROP TABLE IF EXISTS tweets')
 cursor.execute('''
 CREATE TABLE IF NOT EXISTS tweets (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
