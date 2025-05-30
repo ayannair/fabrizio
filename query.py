@@ -4,7 +4,7 @@ import json
 conn = sqlite3.connect('tweets.db')
 cursor = conn.cursor()
 
-search_term = "Manchester City"
+search_term = "Aston Villa"
 query = "SELECT text, date, keywords FROM tweets WHERE keywords LIKE ?"
 cursor.execute(query, (f'%{search_term}%',))
 
