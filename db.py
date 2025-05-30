@@ -8,15 +8,10 @@ word_pattern = r'\b\p{Lu}\p{L}+\b'
 
 conn = sqlite3.connect("tweets.db")
 cursor = conn.cursor()
-cursor.execute('DROP TABLE IF EXISTS tweets')
-cursor.execute('''
-CREATE TABLE IF NOT EXISTS tweets (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    text TEXT NOT NULL,
-    date TEXT,
-    keywords TEXT
-)
-''')
+
+with open("schema.sql", "r") as f:
+    schema_sql = f.read()
+cursor.executescript(schema_sql)
 conn.commit()
 
 all_tweets = scrape()
