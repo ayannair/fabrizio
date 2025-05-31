@@ -5,5 +5,5 @@ finalize automated scraper (done)
 basic langchain script (done)
 openai functionality (done)
 vector embed tweets (done)
-webapp user interface (TODO) - next.js and api routes
+webapp user interface (TODO)
 daily scraper with cron jobs (TODO)
