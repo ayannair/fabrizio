@@ -6,7 +6,7 @@ import time
 import regex as re
 from datetime import datetime
 
-def scrape():
+def scrape(stop_date: str = None):
     options = webdriver.ChromeOptions()
     options.headless = False
 
@@ -21,8 +21,10 @@ def scrape():
 
     unique_tweets = set()
     all_tweets = []
+    stop = False
 
     def extract_tweets():
+        nonlocal stop
         divs = driver.find_elements(By.CSS_SELECTOR, 'div[data-testid="cellInnerDiv"]')
         new_tweets = 0
 
@@ -41,6 +43,9 @@ def scrape():
                         unique_tweets.add(text)
                         all_tweets.append((text, date))
                         new_tweets += 1
+
+                        if stop_date and date == stop_date:
+                            stop = True
             except Exception:
                 continue
         return new_tweets
@@ -50,10 +55,12 @@ def scrape():
     pause_time = 3
     step = 500
 
-    for i in range(10):
+    while not stop:
         driver.execute_script(f"window.scrollBy(0, {step});")
         time.sleep(pause_time)
         extract_tweets()
+
+    print(f"Reached stop date: {stop_date}, stopping scroll.")
 
     driver.quit()
 
