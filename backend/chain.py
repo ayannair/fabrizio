@@ -11,7 +11,10 @@ from langchain_community.vectorstores import FAISS
 
 load_dotenv()
 
-def load_index(index_path="faiss_index"):
+def load_index(index_path=None):
+    if index_path is None:
+        base_dir = os.path.dirname(__file__)  # path to backend/
+        index_path = os.path.join(base_dir, "..", "data", "faiss_index")
     embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
     return FAISS.load_local(index_path, embeddings, allow_dangerous_deserialization=True)
 
