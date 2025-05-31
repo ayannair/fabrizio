@@ -26,5 +26,6 @@ env/
 
 # FAISS/Vector DB index (optional)
 *.index
-faiss_index/
-tweets.db
+data/faiss_index/
+data/tweets.db
+data/output.txt
