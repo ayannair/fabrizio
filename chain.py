@@ -6,17 +6,19 @@ from dotenv import load_dotenv
 from langchain.chat_models import init_chat_model
 from langchain.prompts import PromptTemplate
 from langchain.chains.llm import LLMChain
+from langchain_openai import OpenAIEmbeddings
+from langchain_community.vectorstores import FAISS
 
 load_dotenv()
 
-def get_tweets(entity: str, db_path: str = 'tweets.db'):
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
-    query = "SELECT text, date FROM tweets WHERE keywords LIKE ?"
-    cursor.execute(query, (f'%{entity}%',))
-    rows = cursor.fetchall()
-    conn.close()
-    return rows
+def load_index(index_path="faiss_index"):
+    embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+    return FAISS.load_local(index_path, embeddings, allow_dangerous_deserialization=True)
+
+def get_tweets(entity: str, k: int = 5):
+    faiss_index = load_index()
+    docs = faiss_index.similarity_search(entity, k=k)
+    return [(doc.page_content, doc.metadata.get("date", "Unknown")) for doc in docs]
 
 def format(rows):
     if not rows:
