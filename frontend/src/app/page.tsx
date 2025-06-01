@@ -14,6 +14,7 @@ export default function Home() {
       const data = await res.json();
       const keywords = data.keywords;
       setKeywords(keywords);
+      console.log(keywords)
     };
     fetchKeywords();
   }, []);
@@ -24,16 +25,14 @@ export default function Home() {
       return;
     }
 
-    const cleanedKeywords = keywords.map((kw) =>
-      kw.replace(/[\[\]"]+/g, '').trim()
-    );
+    const filtered = keywords.filter((kw) => {
+      const cleaned = kw.replace(/[\[\]"]+/g, '').trim();
+      return cleaned.toLowerCase().includes(input.toLowerCase());
+    });
 
-    const filtered = cleanedKeywords.filter((kw) =>
-      kw.toLowerCase().includes(input.toLowerCase())
-    );
-
-    setSuggestions(filtered.slice(0, 5)); // limit to 5
+    setSuggestions(filtered.slice(0, 5));
   }, [input, keywords]);
+
 
   const handleSearch = async () => {
     setLoading(true);
@@ -56,7 +55,6 @@ export default function Home() {
   <main className="p-8 max-w-xl mx-auto">
   <h1 className="text-2xl font-bold mb-4">HereWeGo!PT</h1>
 
-  {/* Input + dropdown together */}
   <div className="mb-2">
     <input
       type="text"
@@ -65,22 +63,21 @@ export default function Home() {
       placeholder="Enter player, club, or manager"
       className="border p-2 w-full"
     />
-    {suggestions.length > 1 && input.length >= 2 && (
+    {suggestions.length > 0 && input.length >= 2 && (
       <ul className="bg-white border w-full shadow max-h-40 overflow-y-auto text-black mt-1 rounded">
         {suggestions.map((s, idx) => (
-          <li
-            key={idx}
-            onClick={() => handleSelectSuggestion(s)}
-            className="p-2 hover:bg-blue-100 cursor-pointer"
-          >
-            {s.replace(/["[\]]/g, '')}
-          </li>
-        ))}
+        <li
+          key={idx}
+          onClick={() => handleSelectSuggestion(s)}
+          className="p-2 hover:bg-blue-100 cursor-pointer"
+        >
+          {s.replace(/[\[\]"]+/g, '').trim()}
+        </li>
+      ))}
       </ul>
     )}
   </div>
 
-  {/* Search button BELOW input and dropdown */}
   <div className="mt-4">
     <button
       onClick={handleSearch}
@@ -91,7 +88,6 @@ export default function Home() {
     </button>
   </div>
 
-  {/* Output */}
   {summary && (
     <div className="mt-6 whitespace-pre-line border p-4 rounded bg-gray-50 text-black">
       <h2 className="font-semibold mb-2">Summary</h2>
