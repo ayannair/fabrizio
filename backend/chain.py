@@ -1,4 +1,5 @@
 import os
+import sys
 import sqlite3
 import json
 import regex as re
@@ -49,11 +50,14 @@ def generate_summary(entity: str, context: str) -> str:
     return chain.run({"entity": entity, "context": context})
 
 if __name__ == "__main__":
-    entity = input("Enter an entity name (e.g. Jack Grealish, Bayer Leverkusen): ").strip()
+    if len(sys.argv) > 1:
+        entity = " ".join(sys.argv[1:]).strip()
+    else:
+        entity = input("Enter an entity name (e.g. Jack Grealish, Bayer Leverkusen): ").strip()
+
     tweets = get_tweets(entity)
     context = format(tweets)
-
-    if context == "No tweets found.":
+    if context == "No tweets found":
         print(context)
     else:
         summary = generate_summary(entity, context)
