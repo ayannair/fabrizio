@@ -14,7 +14,6 @@ export default function Home() {
       const data = await res.json();
       const keywords = data.keywords;
       setKeywords(keywords);
-      console.log(keywords)
     };
     fetchKeywords();
   }, []);
