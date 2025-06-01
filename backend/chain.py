@@ -46,7 +46,7 @@ def generate_summary(entity: str, context: str) -> str:
             "You are a football analyst.\n\n"
             "Given the following tweets about {entity}, summarize their current situation. "
             "Focus on any recent transfer rumors, injuries, management changes, or rumors. "
-            "Be specific, and only use what’s in the tweets.\n\n"
+            "Give the summary in easily readable bullet points, only giving a sentence per point\n\n"
             "Tweets:\n"
             "{context}\n"
             "Summary:"
