@@ -1,10 +1,39 @@
 'use client';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 export default function Home() {
   const [input, setInput] = useState('');
   const [summary, setSummary] = useState('');
   const [loading, setLoading] = useState(false);
+  const [keywords, setKeywords] = useState<string[]>([]);
+  const [suggestions, setSuggestions] = useState<string[]>([]);
+
+  useEffect(() => {
+    const fetchKeywords = async () => {
+      const res = await fetch('/api/keywords');
+      const data = await res.json();
+      const keywords = data.keywords;
+      setKeywords(keywords);
+    };
+    fetchKeywords();
+  }, []);
+
+  useEffect(() => {
+    if (input.length < 2) {
+      setSuggestions([]);
+      return;
+    }
+
+    const cleanedKeywords = keywords.map((kw) =>
+      kw.replace(/[\[\]"]+/g, '').trim()
+    );
+
+    const filtered = cleanedKeywords.filter((kw) =>
+      kw.toLowerCase().includes(input.toLowerCase())
+    );
+
+    setSuggestions(filtered.slice(0, 5)); // limit to 5
+  }, [input, keywords]);
 
   const handleSearch = async () => {
     setLoading(true);
@@ -18,29 +47,57 @@ export default function Home() {
     setLoading(false);
   };
 
+  const handleSelectSuggestion = (suggestion: string) => {
+    setInput(suggestion);
+    setSuggestions([]);
+  };
+
   return (
-    <main className="p-8 max-w-xl mx-auto">
-      <h1 className="text-2xl font-bold mb-4">HereWeGo!PT</h1>
-      <input
-        type="text"
-        value={input}
-        onChange={(e) => setInput(e.target.value)}
-        placeholder="Enter player, club, or manager"
-        className="border p-2 w-full mb-4"
-      />
-      <button
-        onClick={handleSearch}
-        className="bg-blue-600 text-white px-4 py-2 rounded"
-        disabled={loading}
-      >
-        {loading ? 'Loading...' : 'Search'}
-      </button>
-      {summary && (
-        <div className="mt-6 whitespace-pre-line border p-4 rounded">
-          <h2 className="font-semibold mb-2">Summary</h2>
-          <p>{summary}</p>
-        </div>
-      )}
-    </main>
-  );
+  <main className="p-8 max-w-xl mx-auto">
+  <h1 className="text-2xl font-bold mb-4">HereWeGo!PT</h1>
+
+  {/* Input + dropdown together */}
+  <div className="mb-2">
+    <input
+      type="text"
+      value={input}
+      onChange={(e) => setInput(e.target.value)}
+      placeholder="Enter player, club, or manager"
+      className="border p-2 w-full"
+    />
+    {suggestions.length > 1 && input.length >= 2 && (
+      <ul className="bg-white border w-full shadow max-h-40 overflow-y-auto text-black mt-1 rounded">
+        {suggestions.map((s, idx) => (
+          <li
+            key={idx}
+            onClick={() => handleSelectSuggestion(s)}
+            className="p-2 hover:bg-blue-100 cursor-pointer"
+          >
+            {s.replace(/["[\]]/g, '')}
+          </li>
+        ))}
+      </ul>
+    )}
+  </div>
+
+  {/* Search button BELOW input and dropdown */}
+  <div className="mt-4">
+    <button
+      onClick={handleSearch}
+      className="bg-blue-600 text-white px-4 py-2 rounded w-full"
+      disabled={loading}
+    >
+      {loading ? 'Loading...' : 'Search'}
+    </button>
+  </div>
+
+  {/* Output */}
+  {summary && (
+    <div className="mt-6 whitespace-pre-line border p-4 rounded bg-gray-50 text-black">
+      <h2 className="font-semibold mb-2">Summary</h2>
+      <p>{summary}</p>
+    </div>
+  )}
+</main>
+);
 }
