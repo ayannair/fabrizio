@@ -22,7 +22,13 @@ def load_index(index_path=None):
 def get_tweets(entity: str, k: int = 5):
     faiss_index = load_index()
     docs = faiss_index.similarity_search(entity, k=k)
-    return [(doc.page_content, doc.metadata.get("date", "Unknown")) for doc in docs]
+    filtered = [
+        (doc.page_content, doc.metadata.get("date", "Unknown"))
+        for doc in docs
+        if entity.lower() in doc.page_content.lower()
+        or entity.lower() in [kw.lower() for kw in doc.metadata.get("keywords", [])]
+    ]
+    return filtered
 
 def format(rows):
     if not rows:

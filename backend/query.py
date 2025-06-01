@@ -1,10 +1,10 @@
 import sqlite3
 import json
 
-conn = sqlite3.connect('tweets.db')
+conn = sqlite3.connect('../data/tweets.db')
 cursor = conn.cursor()
 
-search_term = "Aston Villa"
+search_term = "Liverpool"
 query = "SELECT text, date, keywords FROM tweets WHERE keywords LIKE ?"
 cursor.execute(query, (f'%{search_term}%',))
 
