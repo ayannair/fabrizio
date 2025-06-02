@@ -1,5 +1,6 @@
 import sqlite3
 import json
+import os
 import regex as re
 from scrape import scrape
 
@@ -9,9 +10,13 @@ word_pattern = r'\b\p{Lu}\p{L}+\b'
 conn = sqlite3.connect("tweets.db")
 cursor = conn.cursor()
 
-with open("schema.sql", "r") as f:
-    schema_sql = f.read()
-cursor.executescript(schema_sql)
+base_dir = os.path.dirname(__file__)
+schema_path = os.path.join(base_dir, "..", "data", "schema.sql")
+
+with open(schema_path, "r") as f:
+    schema = f.read()
+
+cursor.executescript(schema)
 conn.commit()
 
 all_tweets = scrape("05/15/2025")
