@@ -59,13 +59,14 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         entity = " ".join(sys.argv[1:]).strip()
     else:
-        entity = input("Enter an entity name (e.g. Jack Grealish, Bayer Leverkusen): ").strip()
+        print(json.dumps({ "error": "No entity provided" }))
+        sys.exit(1)
 
     tweets = get_tweets(entity)
     context = format(tweets)
     if context == "No tweets found":
-        print(context)
+        print(json.dumps({ "summary": context, "tweets": [] }, ensure_ascii=False))
     else:
         summary = generate_summary(entity, context)
-        print("\nSummary:\n")
-        print(summary)
+        tweets_data = [{"text": text, "date": date} for text, date in tweets]
+        print(json.dumps({ "summary": summary, "tweets": tweets_data }, ensure_ascii=False))

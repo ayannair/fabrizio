@@ -7,6 +7,7 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [keywords, setKeywords] = useState<string[]>([]);
   const [suggestions, setSuggestions] = useState<string[]>([]);
+  const [timeline, setTimeline] = useState<{ text: string; date: string }[]>([]);
 
   useEffect(() => {
     const fetchKeywords = async () => {
@@ -42,7 +43,9 @@ export default function Home() {
     });
     const data = await res.json();
     setSummary(data.summary || 'No summary found.');
+    setTimeline(data.tweets || []);
     setLoading(false);
+    console.log(data)
   };
 
   const handleSelectSuggestion = (suggestion: string) => {
@@ -93,6 +96,20 @@ export default function Home() {
       <p>{summary}</p>
     </div>
   )}
+
+  {timeline.length > 0 && (
+  <div className="mt-6">
+    <h2 className="font-semibold mb-2">Timeline</h2>
+    <ul className="border-l-2 border-blue-600 pl-4">
+      {timeline.map((item, idx) => (
+        <li key={idx} className="mb-4">
+          <div className="text-sm text-white">{item.date}</div>
+          <div className="bg-white p-2 rounded shadow-sm mt-1 text-black">{item.text}</div>
+        </li>
+      ))}
+    </ul>
+  </div>
+)}
 </main>
 );
 }

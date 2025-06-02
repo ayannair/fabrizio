@@ -24,7 +24,12 @@ export default function handler(req: NextApiRequest, res: NextApiResponse) {
       console.error('Stderr:', stderr);
     }
 
-    const output = stdout.trim();
-    res.status(200).json({ summary: output });
+    try {
+      const parsed = JSON.parse(stdout.trim());
+      res.status(200).json(parsed);
+    } catch (e) {
+      console.error("Failed to parse JSON from Python:", stdout);
+      res.status(500).json({ error: 'Invalid response from backend' });
+    }
   });
 }
