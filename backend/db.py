@@ -14,7 +14,7 @@ with open("schema.sql", "r") as f:
 cursor.executescript(schema_sql)
 conn.commit()
 
-all_tweets = scrape("05/29/2025")
+all_tweets = scrape("05/15/2025")
 print(f"Scraped {len(all_tweets)} tweets, processing and saving...")
 
 for text, date in all_tweets:

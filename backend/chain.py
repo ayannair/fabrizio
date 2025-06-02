@@ -55,6 +55,38 @@ def generate_summary(entity: str, context: str) -> str:
     chain = LLMChain(llm=llm, prompt=prompt)
     return chain.run({"entity": entity, "context": context})
 
+def generate_timeline(tweets: list[tuple[str, str]]):
+    if not tweets:
+        return []
+    
+    llm = init_chat_model("gpt-3.5-turbo", model_provider="openai")
+    prompt = PromptTemplate(
+        input_variables=["tweets"],
+        template=(
+            "You're a football analyst summarizing updates from tweets. Below are several tweets with dates.\n"
+            "For each one, write a 1-sentence summary in the format:\n"
+            "- [DATE] summary\n\n"
+            "Tweets:\n{tweets}\n\nSummaries:"
+        )
+    )
+    recent = tweets[:3]
+    tweet_text = ""
+    for i, (date, text) in enumerate(recent, 1):
+        tweet_text += f"Tweet {i} [{date}]: {text}\n\n"
+
+    chain = LLMChain(llm=llm, prompt=prompt)
+    response = chain.run({"tweets": tweet_text})
+
+    timeline = []
+    for line in response.strip().split("\n"):
+        match = re.match(r'-\s*(\d{2}/\d{2}/\d{4})\s+(.*)', line)
+        if match:
+            date, summary = match.groups()
+            timeline.append({ "date": date.strip(), "summary": summary.strip() })
+
+    return timeline
+
+
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         entity = " ".join(sys.argv[1:]).strip()
@@ -68,5 +100,8 @@ if __name__ == "__main__":
         print(json.dumps({ "summary": context, "tweets": [] }, ensure_ascii=False))
     else:
         summary = generate_summary(entity, context)
-        tweets_data = [{"text": text, "date": date} for text, date in tweets]
-        print(json.dumps({ "summary": summary, "tweets": tweets_data }, ensure_ascii=False))
+        timeline = generate_timeline(tweets)
+        print(json.dumps({
+            "summary": summary,
+            "timeline": timeline
+        }, ensure_ascii=False))

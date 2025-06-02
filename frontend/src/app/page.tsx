@@ -7,7 +7,7 @@ export default function Home() {
   const [loading, setLoading] = useState(false);
   const [keywords, setKeywords] = useState<string[]>([]);
   const [suggestions, setSuggestions] = useState<string[]>([]);
-  const [timeline, setTimeline] = useState<{ text: string; date: string }[]>([]);
+  const [timeline, setTimeline] = useState<{ date: string; summary: string }[]>([]);
 
   useEffect(() => {
     const fetchKeywords = async () => {
@@ -43,7 +43,7 @@ export default function Home() {
     });
     const data = await res.json();
     setSummary(data.summary || 'No summary found.');
-    setTimeline(data.tweets || []);
+    setTimeline(data.timeline || []);
     setLoading(false);
     console.log(data)
   };
@@ -91,25 +91,25 @@ export default function Home() {
   </div>
 
   {summary && (
-    <div className="mt-6 whitespace-pre-line border p-4 rounded bg-gray-50 text-black">
+    <div className="mt-6 whitespace-pre-line border p-4 rounded bg-black-50 text-white">
       <h2 className="font-semibold mb-2">Summary</h2>
       <p>{summary}</p>
     </div>
   )}
 
   {timeline.length > 0 && (
-  <div className="mt-6">
-    <h2 className="font-semibold mb-2">Timeline</h2>
-    <ul className="border-l-2 border-blue-600 pl-4">
-      {timeline.map((item, idx) => (
-        <li key={idx} className="mb-4">
-          <div className="text-sm text-white">{item.date}</div>
-          <div className="bg-white p-2 rounded shadow-sm mt-1 text-black">{item.text}</div>
-        </li>
-      ))}
-    </ul>
-  </div>
-)}
+    <div className="mt-6 border p-4 rounded bg-black shadow">
+      <h2 className="font-semibold text-lg mb-3 text-white">Timeline</h2>
+      <ul className="space-y-2">
+        {timeline.map((item, idx) => (
+          <li key={idx} className="border-l-4 border-blue-600 pl-3">
+            <p className="text-sm font-semibold text-white">{item.date}</p>
+            <p className="text-white">{item.summary}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
 </main>
 );
 }
