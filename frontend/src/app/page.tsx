@@ -102,7 +102,7 @@ export default function Home() {
       <h2 className="font-semibold text-lg mb-3 text-white">Timeline</h2>
       <ul className="space-y-2">
         {timeline.map((item, idx) => (
-          <li key={idx} className="border-l-4 border-blue-600 pl-3">
+          <li key={idx} className="border-l-4 border-blue-600 pl-3 mb-6">
             <p className="text-sm font-semibold text-white">{item.date}</p>
             <p className="text-white">{item.summary}</p>
           </li>
