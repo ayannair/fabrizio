@@ -4,13 +4,14 @@ import os
 import regex as re
 from scrape import scrape
 
+base_dir = os.path.dirname(__file__)
 phrase_pattern = r'(?:\p{Lu}\p{L}+\s)+(?:\p{Lu}\p{L}+)'
 word_pattern = r'\b\p{Lu}\p{L}+\b'
 
-conn = sqlite3.connect("tweets.db")
+db_path = os.path.join(base_dir, "..", "data", "tweets.db")
+conn = sqlite3.connect(db_path)
 cursor = conn.cursor()
 
-base_dir = os.path.dirname(__file__)
 schema_path = os.path.join(base_dir, "..", "data", "schema.sql")
 
 with open(schema_path, "r") as f:
