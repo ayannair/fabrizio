@@ -40,7 +40,7 @@ def format(rows):
     return context
 
 def generate_summary(entity: str, context: str) -> str:
-    llm = init_chat_model("gpt-3.5-turbo", model_provider="openai")
+    llm = init_chat_model("gpt-4o-mini", model_provider="openai")
     prompt = PromptTemplate(
         input_variables=["entity", "context"],
         template=(
