@@ -1,4 +1,5 @@
 import os
+import time
 import sys
 import sqlite3
 import json
@@ -19,7 +20,7 @@ def load_index(index_path=None):
     embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
     return FAISS.load_local(index_path, embeddings, allow_dangerous_deserialization=True)
 
-def get_tweets(entity: str, k: int = 5):
+def get_tweets(entity: str, k: int = 20):
     faiss_index = load_index()
     docs = faiss_index.similarity_search(entity, k=k)
     filtered = [
@@ -63,13 +64,15 @@ def generate_timeline(tweets: list[tuple[str, str]]):
     prompt = PromptTemplate(
         input_variables=["tweets"],
         template=(
-            "You're a football analyst summarizing updates from tweets. Below are several tweets with dates.\n"
-            "For each one, write a 1-sentence summary in the format:\n"
-            "- [DATE] summary\n\n"
+            "Write the summaries as bullet points starting with a dash and a space,\n"
+            "then the date in MM/DD/YYYY format, followed by a space and the summary.\n"
+            "Example:\n"
+            "- 05/31/2025 Player X signed for Club Y.\n"
+            "- 05/30/2025 Manager Z announced retirement.\n"
             "Tweets:\n{tweets}\n\nSummaries:"
         )
     )
-    recent = tweets[:3]
+    recent = tweets
     tweet_text = ""
     for i, (date, text) in enumerate(recent, 1):
         tweet_text += f"Tweet {i} [{date}]: {text}\n\n"

@@ -1,4 +1,5 @@
 import sqlite3
+import os
 import faiss
 from uuid import uuid4
 from langchain_openai import OpenAIEmbeddings
@@ -9,7 +10,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-def embed(db_path="tweets.db", index_path="faiss_index"):
+def embed():
+    base_dir = os.path.dirname(__file__)
+    db_path = os.path.join(base_dir, "..", "data", "tweets.db")
+    index_path = os.path.join(base_dir, "..", "data", "faiss_index")
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
     cursor.execute("SELECT id, text, date FROM tweets")
