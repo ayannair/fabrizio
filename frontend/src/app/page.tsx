@@ -53,6 +53,12 @@ export default function Home() {
     setSuggestions([]);
   };
 
+  const sortedTimeline = [...timeline].sort((a, b) => {
+    const dateA = new Date(a.date);
+    const dateB = new Date(b.date);
+    return dateB.getTime() - dateA.getTime(); // descending: newest first
+  });
+
   return (
   <main className="p-8 max-w-xl mx-auto">
   <h1 className="text-2xl font-bold mb-4">HereWeGo!PT</h1>
@@ -97,11 +103,11 @@ export default function Home() {
     </div>
   )}
 
-  {timeline.length > 0 && (
+  {sortedTimeline.length > 0 && (
     <div className="mt-6 border p-4 rounded bg-black shadow">
       <h2 className="font-semibold text-lg mb-3 text-white">Timeline</h2>
       <ul className="space-y-2">
-        {timeline.map((item, idx) => (
+        {sortedTimeline.map((item, idx) => (
           <li key={idx} className="border-l-4 border-blue-600 pl-3 mb-6">
             <p className="text-sm font-semibold text-white">{item.date}</p>
             <p className="text-white">{item.summary}</p>
