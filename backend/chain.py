@@ -1,7 +1,8 @@
 import os
-import time
 import sys
-import sqlite3
+import boto3
+import tempfile
+import io
 import json
 import regex as re
 from dotenv import load_dotenv
@@ -13,12 +14,32 @@ from langchain_community.vectorstores import FAISS
 
 load_dotenv()
 
-def load_index(index_path=None):
+s3_client = boto3.client('s3')
+
+def load_index(index_path=None, bucket="herewegopt", file="index.faiss", pickle="index.pkl"):
     if index_path is None:
-        base_dir = os.path.dirname(__file__)  # path to backend/
-        index_path = os.path.join(base_dir, "..", "data", "faiss_index")
-    embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
-    return FAISS.load_local(index_path, embeddings, allow_dangerous_deserialization=True)
+        response = s3_client.get_object(Bucket=bucket, Key=file)
+        data = response['Body'].read()
+
+        response_pickle = s3_client.get_object(Bucket=bucket, Key=pickle)
+        pickle_data = response_pickle['Body'].read()
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            temp_index_path = os.path.join(temp_dir, "index.faiss")
+            temp_pickle_path = os.path.join(temp_dir, "index.pkl")
+
+            with open(temp_index_path, 'wb') as f:
+                f.write(data)
+            with open(temp_pickle_path, 'wb') as f:
+                f.write(pickle_data)
+
+            embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+            faiss_index = FAISS.load_local(temp_dir, embeddings, allow_dangerous_deserialization=True)
+    else:
+        embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+        faiss_index = FAISS.load_local(index_path, embeddings, allow_dangerous_deserialization=True)
+
+    return faiss_index
 
 def get_tweets(entity: str, k: int = 20):
     faiss_index = load_index()
