@@ -29,3 +29,4 @@ env/
 data/faiss_index/
 data/tweets.db
 data/output.txt
+herewegopt-keypair.pem
