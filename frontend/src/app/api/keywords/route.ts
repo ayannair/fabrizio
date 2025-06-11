@@ -3,15 +3,19 @@ import { exec } from "child_process";
 import path from "path";
 
 export async function GET() {
-  return new Promise((resolve) => {
-    const scriptPath = path.join(process.cwd(), "../backend/keywords.py");
+  const scriptPath = path.join(process.cwd(), "../backend/keywords.py");
 
+  return new Promise<Response>((resolve, reject) => {
     exec(`python ${scriptPath}`, (error, stdout, stderr) => {
       if (error) {
-        resolve(NextResponse.json({ error: stderr }, { status: 500 }));
+        reject(NextResponse.json({ error: stderr }, { status: 500 }));
       } else {
-        const keywords = JSON.parse(stdout);
-        resolve(NextResponse.json({ keywords }));
+        try {
+          const keywords = JSON.parse(stdout);
+          resolve(NextResponse.json({ keywords }));
+        } catch (parseError) {
+          reject(NextResponse.json({ error: `Failed to parse response from script: ${parseError}` }, { status: 500 }));
+        }
       }
     });
   });

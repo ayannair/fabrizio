@@ -20,7 +20,7 @@ with open(schema_path, "r") as f:
 cursor.executescript(schema)
 conn.commit()
 
-all_tweets = scrape("05/15/2025")
+all_tweets = scrape("05/30/2025")
 print(f"Scraped {len(all_tweets)} tweets, processing and saving...")
 
 for text, date in all_tweets:
