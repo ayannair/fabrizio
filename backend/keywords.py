@@ -1,13 +1,14 @@
+import boto3
+import tempfile
 import sqlite3
 import json
 import os
 import re
-import boto3
-import tempfile
 
 s3_client = boto3.client('s3')
 
 def access_s3(bucket_name, file_name):
+    # Using NamedTemporaryFile instead of TemporaryFile
     with tempfile.NamedTemporaryFile(delete=False) as temp_file:
         temp_file_path = temp_file.name
         s3_client.download_file(bucket_name, file_name, temp_file_path)

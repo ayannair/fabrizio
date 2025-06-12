@@ -13,7 +13,7 @@ export default function Home() {
     const fetchKeywords = async () => {
       const res = await fetch('https://herewegopt-919615563b34.herokuapp.com//api/keywords');
       const data = await res.json();
-      const keywords = data.keywords;
+      const keywords = data;
       setKeywords(keywords);
     };
     fetchKeywords();
