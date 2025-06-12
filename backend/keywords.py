@@ -2,14 +2,23 @@ import sqlite3
 import json
 import os
 import re
+import boto3
+import tempfile
+
+s3_client = boto3.client('s3')
+
+def access_s3(bucket_name, file_name):
+    with tempfile.NamedTemporaryFile(delete=False) as temp_file:
+        temp_file_path = temp_file.name
+        s3_client.download_file(bucket_name, file_name, temp_file_path)
+        return temp_file_path
 
 def clean(keyword: str) -> str:
     return re.sub(r'[\"\'\[\]]', '', keyword).strip()
 
-def get_keywords(db_path=None) -> list[str]:
+def get_keywords(db_path=None):
     if db_path is None:
-        base_dir = os.path.dirname(__file__)  # backend/
-        db_path = os.path.join(base_dir, "..", "data", "tweets.db")
+        db_path = access_s3('herewegopt', 'tweets.db')
 
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()

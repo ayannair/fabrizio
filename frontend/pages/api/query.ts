@@ -37,7 +37,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   }
 
   try {
-    const response = await fetch(`http://127.0.0.1:5000/api/query?entity=${encodeURIComponent(query)}`);
+    const response = await fetch(`https://herewegopt-919615563b34.herokuapp.com/api/query?entity=${encodeURIComponent(query)}`);
     
     if (!response.ok) {
       return res.status(500).json({ error: "Failed to fetch query results" });

@@ -11,7 +11,7 @@ export default function Home() {
 
   useEffect(() => {
     const fetchKeywords = async () => {
-      const res = await fetch('/api/keywords');
+      const res = await fetch('https://herewegopt-919615563b34.herokuapp.com//api/keywords');
       const data = await res.json();
       const keywords = data.keywords;
       setKeywords(keywords);

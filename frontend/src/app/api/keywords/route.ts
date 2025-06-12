@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 
 export async function GET() {
   try {
-    const response = await fetch('http://127.0.0.1:5000/api/keywords');
+    const response = await fetch('https://herewegopt-919615563b34.herokuapp.com//api/keywords');
     
     if (!response.ok) {
       return NextResponse.json({ error: "Failed to fetch keywords" }, { status: 500 });
