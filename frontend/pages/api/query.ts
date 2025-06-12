@@ -1,5 +1,4 @@
 import type { NextApiRequest, NextApiResponse } from 'next';
-import { exec } from 'child_process';
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
   console.log("[handler] Request method:", req.method);  // DEBUG: incoming method
