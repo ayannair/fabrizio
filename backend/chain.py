@@ -93,7 +93,7 @@ def generate_timeline(tweets: list[tuple[str, str]]):
             "Tweets:\n{tweets}\n\nSummaries:"
         )
     )
-    recent = tweets
+    recent = tweets[-10:]
     tweet_text = ""
     for i, (date, text) in enumerate(recent, 1):
         tweet_text += f"Tweet {i} [{date}]: {text}\n\n"
