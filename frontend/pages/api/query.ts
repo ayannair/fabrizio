@@ -36,20 +36,18 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     return res.status(400).json({ error: 'No query provided' });
   }
 
-  const scriptPath = path.resolve(process.cwd(), '../backend/chain.py');
-  const command = `python ${scriptPath} "${query}"`;
-  console.log("[handler] Command to execute:", command);  // DEBUG: final command
-
   try {
-    const stdout = await execShellCommand(command);
-    console.log("[handler] Raw stdout from Python:", stdout); // DEBUG: raw output
+    const response = await fetch(`http://127.0.0.1:5000/api/query?entity=${encodeURIComponent(query)}`);
+    
+    if (!response.ok) {
+      return res.status(500).json({ error: "Failed to fetch query results" });
+    }
 
-    const parsed = JSON.parse(stdout.trim());
-    console.log("[handler] Parsed JSON:", parsed);  // DEBUG: parsed output
-
-    return res.status(200).json(parsed);
+    const data = await response.json();
+    
+    return res.status(200).json(data);
   } catch (error) {
     console.error("[handler] Caught error:", error);
-    return res.status(500).json({ error: 'Internal Server Error or Invalid response from backend' });
+    return res.status(500).json({ error: `Internal Server Error or Invalid response from backend: ${error}` });
   }
 }
