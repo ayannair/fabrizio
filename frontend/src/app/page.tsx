@@ -42,7 +42,8 @@ export default function Home() {
       body: JSON.stringify({ query: input }),
     });
     const data = await res.json();
-    setSummary(data.summary || 'No summary found.');
+    const summary = data.summary ? data.summary.replace(/^\s*-\s*/gm, '')  : 'No summary found.';
+    setSummary(summary);
     setTimeline(data.timeline || []);
     setLoading(false);
     console.log(data)
@@ -99,9 +100,17 @@ export default function Home() {
   {summary && (
     <div className="mt-6 whitespace-pre-line border p-4 rounded bg-black-50 text-white">
       <h2 className="font-semibold mb-2">Summary</h2>
-      <p>{summary}</p>
+      <ul className="pl-5">
+        {summary
+          .split("\n")
+          .filter(line => line.trim())
+          .map((line, index) => (
+            <li key={index} className="list-disc">{line.trim()}</li>
+          ))}
+      </ul>
     </div>
   )}
+
 
   {sortedTimeline.length > 0 && (
     <div className="mt-6 border p-4 rounded bg-black shadow">
