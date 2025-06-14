@@ -90,6 +90,7 @@ def generate_timeline(tweets: list[tuple[str, str]]):
             "Example:\n"
             "- 05/31/2025 Player X signed for Club Y.\n"
             "- 05/30/2025 Manager Z announced retirement.\n"
+            "Make it maximum four bullet points.\n"
             "Tweets:\n{tweets}\n\nSummaries:"
         )
     )

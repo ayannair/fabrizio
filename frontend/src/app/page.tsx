@@ -8,6 +8,7 @@ export default function Home() {
   const [keywords, setKeywords] = useState<string[]>([]);
   const [suggestions, setSuggestions] = useState<string[]>([]);
   const [timeline, setTimeline] = useState<{ date: string; summary: string }[]>([]);
+  const [currentIndex, setCurrentIndex] = useState(0);
 
   useEffect(() => {
     const fetchKeywords = async () => {
@@ -59,6 +60,14 @@ export default function Home() {
     const dateB = new Date(b.date);
     return dateB.getTime() - dateA.getTime(); // descending: newest first
   });
+
+  const handlePrev = () => {
+    setCurrentIndex((prev) => (prev > 0 ? prev - 1 : prev));
+  };
+
+  const handleNext = () => {
+    setCurrentIndex((prev) => (prev < sortedTimeline.length - 1 ? prev + 1 : prev));
+  };
 
   return (
   <main className="p-8 max-w-xl mx-auto">
@@ -113,18 +122,40 @@ export default function Home() {
 
 
   {sortedTimeline.length > 0 && (
-    <div className="mt-6 border p-4 rounded bg-black shadow">
-      <h2 className="font-semibold text-lg mb-3 text-white">Timeline</h2>
-      <ul className="space-y-2">
-        {sortedTimeline.map((item, idx) => (
-          <li key={idx} className="border-l-4 border-blue-600 pl-3 mb-6">
-            <p className="text-sm font-semibold text-white">{item.date}</p>
-            <p className="text-white">{item.summary}</p>
-          </li>
-        ))}
-      </ul>
+  <div className="mt-6">
+    <h2 className="font-semibold text-lg mb-3 text-white">Timeline</h2>
+
+    {/* Flashcard Navigation */}
+    <div className="flex items-center justify-between mb-4">
+      {/* Flashcard Navigation with Buttons */}
+      <button
+        onClick={handlePrev}
+        className="bg-blue-600 text-white p-4 rounded-md w-16 h-16 flex items-center justify-center"
+        disabled={currentIndex === 0}
+      >
+        &lt;
+      </button>
+
+      {/* Flashcard */}
+      <div className="flex items-center justify-center bg-gray-800 p-4 rounded-md shadow-lg w-64">
+        <div className="text-white w-full p-4 text-center">
+          <p className="font-semibold">{sortedTimeline[currentIndex].date}</p>
+          <p>{sortedTimeline[currentIndex].summary}</p>
+        </div>
+      </div>
+
+      {/* Right Arrow */}
+      <button
+        onClick={handleNext}
+        className="bg-blue-600 text-white p-4 rounded-md w-16 h-16 flex items-center justify-center"
+        disabled={currentIndex === sortedTimeline.length - 1}
+      >
+        &gt;
+      </button>
     </div>
-  )}
+  </div>
+)}
+
 </main>
 );
 }
