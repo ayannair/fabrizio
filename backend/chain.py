@@ -68,7 +68,8 @@ def generate_summary(entity: str, context: str) -> str:
             "You are a football analyst.\n\n"
             "Given the following tweets about {entity}, summarize their current situation. "
             "Focus on any recent transfer rumors, injuries, management changes, or rumors. "
-            "Give the summary in easily readable bullet points, only giving a sentence per point\n\n"
+            "Give the summary in easily readable bullet points, only giving a sentence per point."
+            "Make the section at most four buller points long.\n\n"
             "Tweets:\n"
             "{context}\n"
             "Summary:"
@@ -90,7 +91,6 @@ def generate_timeline(tweets: list[tuple[str, str]]):
             "Example:\n"
             "- 05/31/2025 Player X signed for Club Y.\n"
             "- 05/30/2025 Manager Z announced retirement.\n"
-            "Make it maximum four bullet points.\n"
             "Tweets:\n{tweets}\n\nSummaries:"
         )
     )
