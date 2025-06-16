@@ -42,7 +42,6 @@ def get_keywords(db_path=None):
 
     unique_keywords = []
     for keyword in sorted_keywords:
-        # Check if any individual word from 'unique_keywords' is contained in the current keyword
         if not any(word in keyword for word in unique_keywords):
             unique_keywords.append(keyword)
 
