@@ -38,7 +38,15 @@ def get_keywords(db_path=None):
             except json.JSONDecodeError:
                 continue
 
-    return sorted(words)
+    sorted_keywords = sorted(words, key=lambda x: len(x.split()))
+
+    unique_keywords = []
+    for keyword in sorted_keywords:
+        # Check if any individual word from 'unique_keywords' is contained in the current keyword
+        if not any(word in keyword for word in unique_keywords):
+            unique_keywords.append(keyword)
+
+    return unique_keywords
 
 if __name__ == "__main__":
     keywords = get_keywords()
