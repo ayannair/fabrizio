@@ -6,7 +6,7 @@ import time
 import regex as re
 from datetime import datetime
 
-def scrape(stop_date: str = None):
+def scrape(stop_date: str = None, last_tweet_text: str = None):
     options = webdriver.ChromeOptions()
     options.headless = False
 
@@ -44,7 +44,7 @@ def scrape(stop_date: str = None):
                         all_tweets.append((text, date))
                         new_tweets += 1
 
-                        if stop_date and date == stop_date:
+                        if stop_date and date == stop_date and text == last_tweet_text:
                             stop = True
             except Exception:
                 continue

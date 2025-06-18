@@ -12,18 +12,31 @@ db_path = os.path.join(base_dir, "..", "data", "tweets.db")
 conn = sqlite3.connect(db_path)
 cursor = conn.cursor()
 
-schema_path = os.path.join(base_dir, "..", "data", "schema.sql")
+cursor.execute("SELECT text, date FROM tweets ORDER BY date DESC LIMIT 1")
+last_tweet = cursor.fetchone()
 
-with open(schema_path, "r") as f:
-    schema = f.read()
+if last_tweet:
+    last_tweet_text, last_tweet_date = last_tweet
+    print(f"Last scraped tweet: {last_tweet_text} (Date: {last_tweet_date})")
+else:
+    last_tweet_text, last_tweet_date = None, None
+    print("No previous tweets found, starting fresh.")
 
-cursor.executescript(schema)
-conn.commit()
+# schema_path = os.path.join(base_dir, "..", "data", "schema.sql")
 
-all_tweets = scrape("05/30/2025")
+# with open(schema_path, "r") as f:
+#     schema = f.read()
+
+# cursor.executescript(schema)
+# conn.commit()
+
+all_tweets = scrape(stop_date=last_tweet_date, last_tweet_text=last_tweet_text)
 print(f"Scraped {len(all_tweets)} tweets, processing and saving...")
 
 for text, date in all_tweets:
+    if text == last_tweet_text and date == last_tweet_date:
+        print("Reached the last scraped tweet, stopping scrape process.")
+        break
     phrases = set(re.findall(phrase_pattern, text))
     words = set(re.findall(word_pattern, text))
     phrase_words = set(word for phrase in phrases for word in phrase.split())
