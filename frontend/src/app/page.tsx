@@ -62,11 +62,15 @@ export default function Home() {
   });
 
   const handlePrev = () => {
-    setCurrentIndex((prev) => (prev > 0 ? prev - 1 : prev));
+    if (currentIndex > 0) {
+      setCurrentIndex(prev => prev - 1);
+    }
   };
 
   const handleNext = () => {
-    setCurrentIndex((prev) => (prev < sortedTimeline.length - 1 ? prev + 1 : prev));
+    if (currentIndex < sortedTimeline.length - 1) {
+      setCurrentIndex(prev => prev + 1);
+    }
   };
 
   return (
@@ -122,40 +126,58 @@ export default function Home() {
 
 
   {sortedTimeline.length > 0 && (
-  <div className="mt-6">
-    <h2 className="font-semibold text-lg mb-3 text-white">Timeline</h2>
+    <div className="mt-6">
+      <h2 className="font-semibold text-lg mb-3 text-white">Timeline</h2>
 
-    {/* Flashcard Navigation */}
-    <div className="flex items-center justify-between mb-4">
-      {/* Flashcard Navigation with Buttons */}
-      <button
-        onClick={handlePrev}
-        className="bg-blue-600 text-white p-4 rounded-md w-16 h-16 flex items-center justify-center"
-        disabled={currentIndex === 0}
-      >
-        &lt;
-      </button>
+      {/* Flashcard Navigation */}
+      <div className="flex items-center justify-between mb-4">
+        {/* Left Arrow */}
+        <button
+          onClick={handlePrev}
+          className="bg-blue-600 text-white p-4 rounded-md w-16 h-16 flex items-center justify-center disabled:opacity-50 disabled:cursor-not-allowed"
+          disabled={currentIndex === 0}
+        >
+          &lt;
+        </button>
 
-      {/* Flashcard */}
-      <div className="flex items-center justify-center bg-gray-800 p-4 rounded-md shadow-lg w-64">
-        <div className="text-white w-full p-4 text-center">
-          <p className="font-semibold">{sortedTimeline[currentIndex].date}</p>
-          <p>{sortedTimeline[currentIndex].summary}</p>
+        {/* Flashcard Container */}
+        <div className="relative w-64 h-32 overflow-hidden bg-gray-800 rounded-md shadow-lg">
+          <div 
+            className="flex transition-transform duration-300 ease-in-out"
+            style={{ transform: `translateX(-${currentIndex * 100}%)` }}
+          >
+            {sortedTimeline.map((item, index) => (
+              <div
+                key={index}
+                className="w-64 h-32 flex-shrink-0 flex items-center justify-center p-4"
+              >
+                <div className="text-white w-full text-center">
+                  <p className="font-semibold text-sm mb-2">{item.date}</p>
+                  <p className="text-md leading-tight">{item.summary}</p>
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
+
+        {/* Right Arrow */}
+        <button
+          onClick={handleNext}
+          className="bg-blue-600 text-white p-4 rounded-md w-16 h-16 flex items-center justify-center disabled:opacity-50 disabled:cursor-not-allowed"
+          disabled={currentIndex === sortedTimeline.length - 1}
+        >
+          &gt;
+        </button>
       </div>
 
-      {/* Right Arrow */}
-      <button
-        onClick={handleNext}
-        className="bg-blue-600 text-white p-4 rounded-md w-16 h-16 flex items-center justify-center"
-        disabled={currentIndex === sortedTimeline.length - 1}
-      >
-        &gt;
-      </button>
+      {/* Progress indicator */}
+      <div className="flex justify-center mt-2">
+        <span className="text-white text-sm">
+          {currentIndex + 1} / {sortedTimeline.length}
+        </span>
+      </div>
     </div>
-  </div>
-)}
-
+  )}
 </main>
 );
 }
