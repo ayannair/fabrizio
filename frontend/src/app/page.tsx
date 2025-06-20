@@ -1,5 +1,5 @@
 'use client';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 export default function Home() {
   const [input, setInput] = useState('');
@@ -9,6 +9,8 @@ export default function Home() {
   const [suggestions, setSuggestions] = useState<string[]>([]);
   const [timeline, setTimeline] = useState<{ date: string; summary: string }[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [cardHeight, setCardHeight] = useState(0);
+  const cardRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const fetchKeywords = async () => {
@@ -47,6 +49,7 @@ export default function Home() {
     setSummary(summary);
     setTimeline(data.timeline || []);
     setLoading(false);
+    setCurrentIndex(0);
     console.log(data)
   };
 
@@ -72,6 +75,12 @@ export default function Home() {
       setCurrentIndex(prev => prev + 1);
     }
   };
+
+  useEffect(() => {
+    if (cardRef.current) {
+      setCardHeight(cardRef.current.scrollHeight);
+    }
+  }, [currentIndex]);
 
   return (
   <main className="p-8 max-w-xl mx-auto">
@@ -141,7 +150,10 @@ export default function Home() {
         </button>
 
         {/* Flashcard Container */}
-        <div className="relative w-64 h-32 overflow-hidden bg-gray-800 rounded-md shadow-lg">
+        <div
+          className="relative w-64 overflow-hidden bg-gray-800 rounded-md shadow-lg"
+          style={{ height: `${cardHeight}px` }}
+        >
           <div 
             className="flex transition-transform duration-300 ease-in-out"
             style={{ transform: `translateX(-${currentIndex * 100}%)` }}
@@ -149,7 +161,8 @@ export default function Home() {
             {sortedTimeline.map((item, index) => (
               <div
                 key={index}
-                className="w-64 h-32 flex-shrink-0 flex items-center justify-center p-4"
+                ref={index === currentIndex ? cardRef : null}
+                className="w-64 flex-shrink-0 flex items-center justify-center p-4"
               >
                 <div className="text-white w-full text-center">
                   <p className="font-semibold text-sm mb-2">{item.date}</p>
