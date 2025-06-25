@@ -83,7 +83,7 @@ export default function Home() {
   }, [currentIndex]);
 
   return (
-  <main className="p-8 max-w-xl mx-auto">
+  <main className="p-8 max-w-3xl mx-auto">
     <h1 className="text-2xl font-bold mb-4">HereWeGo!PT</h1>
 
     <div className="mb-2">
@@ -151,7 +151,7 @@ export default function Home() {
 
     {sortedTimeline.length > 0 && (
       <div className="mt-6">
-        <h2 className="font-semibold text-lg mb-3 text-white">Timeline</h2>
+        <h2 className="font-semibold text-lg mb-6 text-center text-white">Timeline</h2>
 
         {/* Flashcard Navigation */}
         <div className="flex items-center justify-between mb-4">
