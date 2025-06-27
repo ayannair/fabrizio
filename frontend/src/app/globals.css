@@ -24,3 +24,34 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@keyframes fadeInSummary {
+  0% {
+    opacity: 0;  /* Initially hidden */
+  }
+  100% {
+    opacity: 1;  /* Fully visible */
+  }
+}
+
+/* Fade-in effect for the timeline */
+@keyframes fadeInTimeline {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Apply the fade-in animation to summary items with delay */
+.fade-in-summary {
+  opacity: 0;  /* Start with opacity 0 */
+  animation: fadeInSummary 1s ease-in-out forwards;  /* 1s duration */
+}
+
+/* Apply fade-in animation to the timeline after summary is done */
+.fade-in-timeline {
+  opacity: 0;  /* Start with opacity 0 */
+  animation: fadeInTimeline 1s ease-in-out forwards;  /* 1s duration */
+}
